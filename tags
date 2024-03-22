@@ -1,0 +1,1061 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+ARCHITECTURE_ID	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	372;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	375;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	378;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	381;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	384;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	387;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	390;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	395;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	398;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	401;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	405;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	367;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	370;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	373;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	376;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	379;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	382;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	385;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	390;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	393;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	396;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	400;"	d	file:
+CMAKE_BINARY_DIR	build/Makefile	/^CMAKE_BINARY_DIR = \/home\/sun\/SuTungpo\/build$/;"	m
+CMAKE_BINARY_DIR	build/bin/Makefile	/^CMAKE_BINARY_DIR = \/home\/sun\/SuTungpo\/build$/;"	m
+CMAKE_COMMAND	build/Makefile	/^CMAKE_COMMAND = \/usr\/local\/bin\/cmake$/;"	m
+CMAKE_COMMAND	build/bin/Makefile	/^CMAKE_COMMAND = \/usr\/local\/bin\/cmake$/;"	m
+CMAKE_SOURCE_DIR	build/Makefile	/^CMAKE_SOURCE_DIR = \/home\/sun\/SuTungpo$/;"	m
+CMAKE_SOURCE_DIR	build/bin/Makefile	/^CMAKE_SOURCE_DIR = \/home\/sun\/SuTungpo$/;"	m
+COMPILER_ID	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	103;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	110;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	117;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	124;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	132;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	137;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	144;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	147;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	14;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	150;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	153;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	168;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	182;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	190;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	208;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	217;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	220;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	227;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	245;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	248;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	251;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	37;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	45;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	51;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	57;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	66;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	75;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	89;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	96;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	101;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	108;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	115;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	122;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	129;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	137;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	13;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	142;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	149;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	152;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	155;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	170;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	184;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	192;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	19;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	210;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	219;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	222;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	240;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	243;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	246;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	42;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	50;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	56;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	62;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	71;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	80;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	94;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	105;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	112;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	119;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	125;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	133;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	139;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	157;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	172;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	183;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	192;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	19;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	211;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	222;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	230;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	235;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	38;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	46;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	53;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	59;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	68;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	78;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	83;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	91;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	98;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	103;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	110;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	117;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	124;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	130;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	138;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	144;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	159;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	15;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	174;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	185;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	194;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	213;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	225;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	230;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	24;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	43;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	51;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	58;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	64;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	73;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	83;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	88;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	96;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	106;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	113;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	120;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	126;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	134;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	140;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	158;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	173;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	184;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	193;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	20;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	212;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	223;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	231;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	236;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	39;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	47;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	54;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	60;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	69;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	79;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	84;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	92;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	99;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	104;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	111;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	118;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	125;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	131;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	139;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	145;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	160;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	16;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	175;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	186;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	195;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	214;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	226;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	231;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	25;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	44;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	52;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	59;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	65;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	74;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	84;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	89;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	97;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	100;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	107;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	114;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	121;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	128;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	141;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	159;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	174;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	186;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	197;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	200;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	213;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	224;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	22;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	232;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	237;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	24;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	41;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	48;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	62;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	71;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	80;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	85;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	93;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	105;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	112;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	119;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	126;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	133;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	146;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	161;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	176;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	188;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	199;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	202;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	215;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	227;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	232;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	27;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	29;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	46;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	53;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	67;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	76;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	85;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	90;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	98;"	d	file:
+COMPILER_VERSION_TWEAK	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	165;"	d	file:
+COMPILER_VERSION_TWEAK	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	204;"	d	file:
+COMPILER_VERSION_TWEAK	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	28;"	d	file:
+COMPILER_VERSION_TWEAK	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	167;"	d	file:
+COMPILER_VERSION_TWEAK	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	206;"	d	file:
+COMPILER_VERSION_TWEAK	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	33;"	d	file:
+CameraPose	include/Basics.h	/^	struct CameraPose$/;"	s	namespace:sun
+CameraPoseEstimation	include/CameraPoseEstimation.h	/^		CameraPoseEstimation();$/;"	p	class:sun::CameraPoseEstimation	access:public	signature:()
+CameraPoseEstimation	include/CameraPoseEstimation.h	/^	class CameraPoseEstimation$/;"	c	namespace:sun
+CameraPoseEstimation	src/CameraPoseEstimation.cpp	/^	CameraPoseEstimation::CameraPoseEstimation()$/;"	f	class:sun::CameraPoseEstimation	signature:()
+CameraPoseEstimation_PlaneParas	include/CameraPoseEstimation_PlaneParas.h	/^		CameraPoseEstimation_PlaneParas();$/;"	p	class:sun::CameraPoseEstimation_PlaneParas	access:public	signature:()
+CameraPoseEstimation_PlaneParas	include/CameraPoseEstimation_PlaneParas.h	/^	class CameraPoseEstimation_PlaneParas : public  CameraPoseEstimation$/;"	c	namespace:sun	inherits:CameraPoseEstimation
+CameraPoseEstimation_PlaneParas	src/CameraPoseEstimation_PlaneParas.cpp	/^	CameraPoseEstimation_PlaneParas::CameraPoseEstimation_PlaneParas()$/;"	f	class:sun::CameraPoseEstimation_PlaneParas	signature:()
+CameraPoseEstimation_ShadowSM	include/CameraPoseEstimation_ShadowSM.h	/^		CameraPoseEstimation_ShadowSM();$/;"	p	class:sun::CameraPoseEstimation_ShadowSM	access:public	signature:()
+CameraPoseEstimation_ShadowSM	include/CameraPoseEstimation_ShadowSM.h	/^	class CameraPoseEstimation_ShadowSM : public  CameraPoseEstimation$/;"	c	namespace:sun	inherits:CameraPoseEstimation
+CameraPoseEstimation_ShadowSM	src/CameraPoseEstimation_ShadowSM.cpp	/^	CameraPoseEstimation_ShadowSM::CameraPoseEstimation_ShadowSM()$/;"	f	class:sun::CameraPoseEstimation_ShadowSM	signature:()
+Cell	include/PlaneExtraction.h	/^	struct Cell$/;"	s	namespace:sun
+Cells_bottom	include/PlaneExtraction.h	/^		Cells_bottom(int theta, int phy, int d);$/;"	p	struct:sun::Cells_bottom	access:public	signature:(int theta, int phy, int d)
+Cells_bottom	include/PlaneExtraction.h	/^	struct Cells_bottom$/;"	s	namespace:sun
+Cells_bottom	src/PlaneExtraction.cpp	/^	Cells_bottom::Cells_bottom(int theta, int phy, int d)$/;"	f	class:sun::Cells_bottom	signature:(int theta, int phy, int d)
+CenterWeight	include/PlaneFilter.h	/^		double CenterWeight(Pixel index);$/;"	p	class:sun::PlaneFilter	access:private	signature:(Pixel index)
+CenterWeight	src/PlaneFilter.cpp	/^	double PlaneFilter::CenterWeight(Pixel index)$/;"	f	class:sun::PlaneFilter	signature:(Pixel index)
+Clear	include/PlaneExtraction.h	/^		void Clear();$/;"	p	class:sun::PlaneExtraction	access:public	signature:()
+Clear	include/PlaneMatching_Interptree.h	/^		void Clear();$/;"	p	class:sun::InterpTree	access:public	signature:()
+Clear	src/PlaneMatching_Interptree.cpp	/^	void InterpTree::Clear()$/;"	f	class:sun::InterpTree	signature:()
+ColorFilter	include/PlaneFilter.h	/^		void ColorFilter();$/;"	p	class:sun::PlaneFilter	access:public	signature:()
+ColorFilter	src/PlaneFilter.cpp	/^	void PlaneFilter::ColorFilter()$/;"	f	class:sun::PlaneFilter	signature:()
+ColorResponse	include/PlaneFilter.h	/^		double ColorResponse(Pixel index, Eigen::MatrixXd temp_color);$/;"	p	class:sun::PlaneFilter	access:private	signature:(Pixel index, Eigen::MatrixXd temp_color)
+ColorResponse	src/PlaneFilter.cpp	/^	double PlaneFilter::ColorResponse(Pixel index, Eigen::MatrixXd temp_color)$/;"	f	class:sun::PlaneFilter	signature:(Pixel index, Eigen::MatrixXd temp_color)
+ComputeCellAttribute	include/PlaneExtraction.h	/^		void ComputeCellAttribute(Eigen::Matrix3d Rotation2eigen);$/;"	p	struct:sun::Cells_bottom	access:public	signature:(Eigen::Matrix3d Rotation2eigen)
+ComputeCellAttribute	src/PlaneExtraction.cpp	/^	void Cells_bottom::ComputeCellAttribute(Eigen::Matrix3d Rotation2eigen)$/;"	f	class:sun::Cells_bottom	signature:(Eigen::Matrix3d Rotation2eigen)
+ConstraintCase	include/CameraPoseEstimation.h	/^		enum ConstraintCase { DoF_6, DoF_5, DoF_3 };$/;"	g	class:sun::CameraPoseEstimation	access:public
+Construct	include/PlaneMatching_Interptree.h	/^		bool Construct(std::vector<Plane*> &planes_ref_,std::vector<Plane*> &planes_cur_);$/;"	p	class:sun::InterpTree	access:public	signature:(std::vector<Plane*> &planes_ref_,std::vector<Plane*> &planes_cur_)
+Construct	src/PlaneMatching_Interptree.cpp	/^	bool InterpTree::Construct(std::vector<Plane*> &planes_ref_,std::vector<Plane*> &planes_cur_)$/;"	f	class:sun::InterpTree	signature:(std::vector<Plane*> &planes_ref_,std::vector<Plane*> &planes_cur_)
+DEC	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	409;"	d	file:
+DEC	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	404;"	d	file:
+DataReading	include/DataReading.h	/^		DataReading(const std::string f);$/;"	p	class:sun::DataReading	access:public	signature:(const std::string f)
+DataReading	include/DataReading.h	/^	class DataReading$/;"	c	namespace:sun
+DataReading	src/DataReading.cpp	/^	DataReading::DataReading(const std::string f): freiburg(f)$/;"	f	class:sun::DataReading	signature:(const std::string f)
+DensityFilter	include/PlaneFilter.h	/^		void DensityFilter();$/;"	p	class:sun::PlaneFilter	access:public	signature:()
+DensityFilter	src/PlaneFilter.cpp	/^	void PlaneFilter::DensityFilter()$/;"	f	class:sun::PlaneFilter	signature:()
+DensityResponse	include/PlaneFilter.h	/^		double DensityResponse(Pixel index, Eigen::MatrixXd temp_density);$/;"	p	class:sun::PlaneFilter	access:private	signature:(Pixel index, Eigen::MatrixXd temp_density)
+DensityResponse	src/PlaneFilter.cpp	/^	double PlaneFilter::DensityResponse(Pixel index, Eigen::MatrixXd temp_density)$/;"	f	class:sun::PlaneFilter	signature:(Pixel index, Eigen::MatrixXd temp_density)
+DepthWeight	include/PlaneFilter.h	/^		double DepthWeight(Pixel index);$/;"	p	class:sun::PlaneFilter	access:private	signature:(Pixel index)
+DepthWeight	src/PlaneFilter.cpp	/^	double PlaneFilter::DepthWeight(Pixel index)$/;"	f	class:sun::PlaneFilter	signature:(Pixel index)
+DoF_3	include/CameraPoseEstimation.h	/^		enum ConstraintCase { DoF_6, DoF_5, DoF_3 };$/;"	e	enum:sun::CameraPoseEstimation::ConstraintCase
+DoF_5	include/CameraPoseEstimation.h	/^		enum ConstraintCase { DoF_6, DoF_5, DoF_3 };$/;"	e	enum:sun::CameraPoseEstimation::ConstraintCase
+DoF_6	include/CameraPoseEstimation.h	/^		enum ConstraintCase { DoF_6, DoF_5, DoF_3 };$/;"	e	enum:sun::CameraPoseEstimation::ConstraintCase
+EQUALS	build/Makefile	/^EQUALS = =$/;"	m
+EQUALS	build/bin/Makefile	/^EQUALS = =$/;"	m
+EdgeFilter	include/PlaneFilter.h	/^		void EdgeFilter();$/;"	p	class:sun::PlaneFilter	access:public	signature:()
+EdgeFilter	src/PlaneFilter.cpp	/^	void PlaneFilter::EdgeFilter()$/;"	f	class:sun::PlaneFilter	signature:()
+EdgeResponse	include/PlaneFilter.h	/^		double EdgeResponse(Pixel index, Eigen::MatrixXd temp_edge);$/;"	p	class:sun::PlaneFilter	access:private	signature:(Pixel index, Eigen::MatrixXd temp_edge)
+EdgeResponse	src/PlaneFilter.cpp	/^	double PlaneFilter::EdgeResponse(Pixel index, Eigen::MatrixXd temp_edge)$/;"	f	class:sun::PlaneFilter	signature:(Pixel index, Eigen::MatrixXd temp_edge)
+EularAngles2Rotation	include/Basics.h	/^	void EularAngles2Rotation(Eigen::Vector3d &Eulars, Eigen::Matrix3d &Rotation);$/;"	p	namespace:sun	signature:(Eigen::Vector3d &Eulars, Eigen::Matrix3d &Rotation)
+EularAngles2Rotation	src/Basics.cpp	/^	void EularAngles2Rotation(Eigen::Vector3d &Eulars, Eigen::Matrix3d &Rotation)$/;"	f	namespace:sun	signature:(Eigen::Vector3d &Eulars, Eigen::Matrix3d &Rotation)
+Eulars	include/Basics.h	/^		Eigen::Vector3d Eulars() {return Rotation.eulerAngles(2,1,0);}$/;"	f	struct:sun::CameraPose	access:public	signature:()
+ExtractPlanes	include/PlaneExtraction.h	/^		virtual void ExtractPlanes()=0;$/;"	p	class:sun::PlaneExtraction	access:public	signature:()
+ExtractPlanes	include/PlaneExtraction_RANSAC.h	/^		virtual void ExtractPlanes();$/;"	p	class:sun::PlaneExtraction_RANSAC	access:public	signature:()
+ExtractPlanes	src/PlaneExtraction_RANSAC.cpp	/^	void PlaneExtraction_RANSAC::ExtractPlanes()$/;"	f	class:sun::PlaneExtraction_RANSAC	signature:()
+GetPlane	include/PlaneExtraction.h	/^		Plane* GetPlane(int i) {return planes[i];}$/;"	f	class:sun::PlaneExtraction	access:public	signature:(int i)
+GetPlaneNum	include/PlaneExtraction.h	/^		int GetPlaneNum(void) {return planes.size();}$/;"	f	class:sun::PlaneExtraction	access:public	signature:(void)
+GetPoint	include/PlaneExtraction.h	/^		Point GetPoint(int i) {return points[i];}$/;"	f	class:sun::PlaneExtraction	access:public	signature:(int i)
+GetPointsNum	include/PlaneExtraction.h	/^		int GetPointsNum(void) {return points.size();}$/;"	f	class:sun::PlaneExtraction	access:public	signature:(void)
+H	include/CameraPoseEstimation.h	/^		Eigen::Matrix3d H, H_svd_U, H_svd_V;$/;"	m	class:sun::CameraPoseEstimation	access:protected
+HEX	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	420;"	d	file:
+HEX	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	415;"	d	file:
+H_svd_U	include/CameraPoseEstimation.h	/^		Eigen::Matrix3d H, H_svd_U, H_svd_V;$/;"	m	class:sun::CameraPoseEstimation	access:protected
+H_svd_V	include/CameraPoseEstimation.h	/^		Eigen::Matrix3d H, H_svd_U, H_svd_V;$/;"	m	class:sun::CameraPoseEstimation	access:protected
+Height	include/DataReading.h	/^		int Width,Height;$/;"	m	class:sun::DataReading	access:private
+ID_VOID_MAIN	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	6;"	d	file:
+Initialize_freiburg	include/DataReading.h	/^		void Initialize_freiburg(double time_start = 0);$/;"	p	class:sun::DataReading	access:public	signature:(double time_start = 0)
+Initialize_freiburg	src/DataReading.cpp	/^	void DataReading::Initialize_freiburg(double time_start)$/;"	f	class:sun::DataReading	signature:(double time_start)
+InterpTree	include/PlaneMatching_Interptree.h	/^		InterpTree();$/;"	p	class:sun::InterpTree	access:public	signature:()
+InterpTree	include/PlaneMatching_Interptree.h	/^	class InterpTree$/;"	c	namespace:sun
+InterpTree	src/PlaneMatching_Interptree.cpp	/^	InterpTree::InterpTree()$/;"	f	class:sun::InterpTree	signature:()
+LoadData_freiburg	include/DataReading.h	/^		void LoadData_freiburg();$/;"	p	class:sun::DataReading	access:public	signature:()
+LoadData_freiburg	src/DataReading.cpp	/^	void DataReading::LoadData_freiburg()$/;"	f	class:sun::DataReading	signature:()
+LoadPoints	include/PlaneExtraction.h	/^		virtual bool LoadPoints();$/;"	p	class:sun::PlaneExtraction	access:public	signature:()
+LoadPoints	src/PlaneExtraction.cpp	/^	bool PlaneExtraction::LoadPoints()$/;"	f	class:sun::PlaneExtraction	signature:()
+MapIncremental	include/MapIncremental.h	/^		MapIncremental();$/;"	p	class:sun::MapIncremental	access:public	signature:()
+MapIncremental	include/MapIncremental.h	/^	class MapIncremental$/;"	c	namespace:sun
+MapIncremental	src/MapIncremental.cpp	/^	MapIncremental::MapIncremental()$/;"	f	class:sun::MapIncremental	signature:()
+Match	include/PlaneMatching.h	/^		virtual void Match(std::vector<PlanePair> &matched_planes)=0;$/;"	p	class:sun::PlaneMatching	access:public	signature:(std::vector<PlanePair> &matched_planes)
+Match	include/PlaneMatching_Interptree.h	/^		virtual void Match(std::vector<PlanePair> &matched_planes);$/;"	p	class:sun::PlaneMatching_Interptree	access:public	signature:(std::vector<PlanePair> &matched_planes)
+Match	src/PlaneMatching_Interptree.cpp	/^	void PlaneMatching_Interptree::Match(std::vector<PlanePair> &matched_planes)$/;"	f	class:sun::PlaneMatching_Interptree	signature:(std::vector<PlanePair> &matched_planes)
+Node_InterpTree	include/PlaneMatching_Interptree.h	/^		Node_InterpTree();$/;"	p	struct:sun::Node_InterpTree	access:public	signature:()
+Node_InterpTree	include/PlaneMatching_Interptree.h	/^		Node_InterpTree(Plane *plane_ref_, Plane *plane_cur_);$/;"	p	struct:sun::Node_InterpTree	access:public	signature:(Plane *plane_ref_, Plane *plane_cur_)
+Node_InterpTree	include/PlaneMatching_Interptree.h	/^	struct Node_InterpTree$/;"	s	namespace:sun
+Node_InterpTree	src/PlaneMatching_Interptree.cpp	/^	Node_InterpTree::Node_InterpTree()$/;"	f	class:sun::Node_InterpTree	signature:()
+Node_InterpTree	src/PlaneMatching_Interptree.cpp	/^	Node_InterpTree::Node_InterpTree(Plane *plane_ref_, Plane *plane_cur_)$/;"	f	class:sun::Node_InterpTree	signature:(Plane *plane_ref_, Plane *plane_cur_)
+PLATFORM_ID	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	269;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	272;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	275;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	278;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	281;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	284;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	287;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	290;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	293;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	296;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	299;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	302;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	305;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	308;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	311;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	314;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	317;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	320;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	323;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	326;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	329;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	332;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	335;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	338;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	341;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	345;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	348;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	351;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	354;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	357;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	361;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	264;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	267;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	270;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	273;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	276;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	279;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	282;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	285;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	288;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	291;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	294;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	297;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	300;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	303;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	306;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	309;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	312;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	315;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	318;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	321;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	324;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	327;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	330;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	333;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	336;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	340;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	343;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	346;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	349;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	352;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	356;"	d	file:
+Pixel	include/Basics.h	/^	struct Pixel$/;"	s	namespace:sun
+Pixel_pps	include/Basics.h	/^	struct Pixel_pps$/;"	s	namespace:sun
+Plane	include/Basics.h	/^	struct Plane$/;"	s	namespace:sun
+PlaneExtraction	include/PlaneExtraction.h	/^		PlaneExtraction(): bins_theta(10), bins_phy(20), bins_d(1) {}$/;"	f	class:sun::PlaneExtraction	access:public	signature:()
+PlaneExtraction	include/PlaneExtraction.h	/^		PlaneExtraction(int theta, int phy, int d): bins_theta(theta), bins_phy(phy), bins_d(d) {}$/;"	f	class:sun::PlaneExtraction	access:public	signature:(int theta, int phy, int d)
+PlaneExtraction	include/PlaneExtraction.h	/^	class PlaneExtraction$/;"	c	namespace:sun
+PlaneExtraction_RANSAC	include/PlaneExtraction_RANSAC.h	/^		PlaneExtraction_RANSAC();$/;"	p	class:sun::PlaneExtraction_RANSAC	access:public	signature:()
+PlaneExtraction_RANSAC	include/PlaneExtraction_RANSAC.h	/^	class PlaneExtraction_RANSAC : public PlaneExtraction$/;"	c	namespace:sun	inherits:PlaneExtraction
+PlaneExtraction_RANSAC	src/PlaneExtraction_RANSAC.cpp	/^	PlaneExtraction_RANSAC::PlaneExtraction_RANSAC()$/;"	f	class:sun::PlaneExtraction_RANSAC	signature:()
+PlaneFilter	include/PlaneFilter.h	/^		PlaneFilter();$/;"	p	class:sun::PlaneFilter	access:public	signature:()
+PlaneFilter	include/PlaneFilter.h	/^	class PlaneFilter$/;"	c	namespace:sun
+PlaneFilter	src/PlaneFilter.cpp	/^	PlaneFilter::PlaneFilter()$/;"	f	class:sun::PlaneFilter	signature:()
+PlaneMatching	include/PlaneMatching.h	/^		PlaneMatching();$/;"	p	class:sun::PlaneMatching	access:public	signature:()
+PlaneMatching	include/PlaneMatching.h	/^	class PlaneMatching$/;"	c	namespace:sun
+PlaneMatching	src/PlaneMatching.cpp	/^	PlaneMatching::PlaneMatching()$/;"	f	class:sun::PlaneMatching	signature:()
+PlaneMatching_Interptree	include/PlaneMatching_Interptree.h	/^		PlaneMatching_Interptree();$/;"	p	class:sun::PlaneMatching_Interptree	access:public	signature:()
+PlaneMatching_Interptree	include/PlaneMatching_Interptree.h	/^	class PlaneMatching_Interptree : public PlaneMatching$/;"	c	namespace:sun	inherits:PlaneMatching
+PlaneMatching_Interptree	src/PlaneMatching_Interptree.cpp	/^	PlaneMatching_Interptree::PlaneMatching_Interptree()$/;"	f	class:sun::PlaneMatching_Interptree	signature:()
+PlanePair	include/Basics.h	/^	struct PlanePair$/;"	s	namespace:sun
+Point	include/Basics.h	/^	struct Point$/;"	s	namespace:sun
+Pose2AlignPlanes	include/CameraPoseEstimation_PlaneParas.h	/^		void Pose2AlignPlanes();$/;"	p	class:sun::CameraPoseEstimation_PlaneParas	access:public	signature:()
+Pose2AlignPlanes	src/CameraPoseEstimation_PlaneParas.cpp	/^	void CameraPoseEstimation_PlaneParas::Pose2AlignPlanes()$/;"	f	class:sun::CameraPoseEstimation_PlaneParas	signature:()
+Quat	include/Basics.h	/^		Eigen::Quaterniond Quat() {return Eigen::Quaterniond(Rotation);}$/;"	f	struct:sun::CameraPose	access:public	signature:()
+RM	build/Makefile	/^RM = \/usr\/local\/bin\/cmake -E remove -f$/;"	m
+RM	build/bin/Makefile	/^RM = \/usr\/local\/bin\/cmake -E remove -f$/;"	m
+Rotation	include/Basics.h	/^		Eigen::Matrix3d Rotation;$/;"	m	struct:sun::CameraPose	access:public
+Rotation2EularAngles	include/Basics.h	/^	void Rotation2EularAngles(Eigen::Matrix3d &Rotation, Eigen::Vector3d &Eulars);$/;"	p	namespace:sun	signature:(Eigen::Matrix3d &Rotation, Eigen::Vector3d &Eulars)
+Rotation2EularAngles	src/Basics.cpp	/^	void Rotation2EularAngles(Eigen::Matrix3d &Rotation, Eigen::Vector3d &Eulars)$/;"	f	namespace:sun	signature:(Eigen::Matrix3d &Rotation, Eigen::Vector3d &Eulars)
+Rotation2eigen	include/PlaneExtraction.h	/^		Eigen::Matrix3d Rotation2eigen;$/;"	m	class:sun::PlaneExtraction	access:protected
+SHELL	build/Makefile	/^SHELL = \/bin\/sh$/;"	m
+SHELL	build/bin/Makefile	/^SHELL = \/bin\/sh$/;"	m
+SIMULATE_ID	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	155;"	d	file:
+SIMULATE_ID	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	16;"	d	file:
+SIMULATE_ID	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	170;"	d	file:
+SIMULATE_ID	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	157;"	d	file:
+SIMULATE_ID	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	172;"	d	file:
+SIMULATE_ID	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	21;"	d	file:
+SIMULATE_VERSION_MAJOR	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	162;"	d	file:
+SIMULATE_VERSION_MAJOR	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	177;"	d	file:
+SIMULATE_VERSION_MAJOR	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	32;"	d	file:
+SIMULATE_VERSION_MAJOR	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	164;"	d	file:
+SIMULATE_VERSION_MAJOR	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	179;"	d	file:
+SIMULATE_VERSION_MAJOR	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	37;"	d	file:
+SIMULATE_VERSION_MINOR	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	163;"	d	file:
+SIMULATE_VERSION_MINOR	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	178;"	d	file:
+SIMULATE_VERSION_MINOR	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	33;"	d	file:
+SIMULATE_VERSION_MINOR	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	165;"	d	file:
+SIMULATE_VERSION_MINOR	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	180;"	d	file:
+SIMULATE_VERSION_MINOR	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	38;"	d	file:
+SUFFIXES	build/Makefile	/^SUFFIXES =$/;"	m
+SUFFIXES	build/bin/Makefile	/^SUFFIXES =$/;"	m
+SampleDataset_freiburg	include/DataReading.h	/^		void SampleDataset_freiburg();$/;"	p	class:sun::DataReading	access:public	signature:()
+SampleDataset_freiburg	src/DataReading.cpp	/^	void DataReading::SampleDataset_freiburg()$/;"	f	class:sun::DataReading	signature:()
+Scan	include/Basics.h	/^	struct Scan$/;"	s	namespace:sun
+SortCells	include/PlaneExtraction.h	/^		void SortCells();$/;"	p	struct:sun::Cells_bottom	access:public	signature:()
+SortCells	src/PlaneExtraction.cpp	/^	void Cells_bottom::SortCells()$/;"	f	class:sun::Cells_bottom	signature:()
+Sorted_Cell	include/PlaneExtraction.h	/^		Sorted_Cell(){}$/;"	f	class:sun::Sorted_Cell	access:public	signature:()
+Sorted_Cell	include/PlaneExtraction.h	/^	class Sorted_Cell$/;"	c	namespace:sun
+Width	include/DataReading.h	/^		int Width,Height;$/;"	m	class:sun::DataReading	access:private
+addScan	include/MapIncremental.h	/^		void addScan(pcl::PointCloud<pcl::PointXYZRGBA>::Ptr point_cloud, CameraPose Rt);$/;"	p	class:sun::MapIncremental	access:public	signature:(pcl::PointCloud<pcl::PointXYZRGBA>::Ptr point_cloud, CameraPose Rt)
+addScan	src/MapIncremental.cpp	/^	void MapIncremental::addScan(pcl::PointCloud<pcl::PointXYZRGBA>::Ptr point_cloud, CameraPose Rt)$/;"	f	class:sun::MapIncremental	signature:(pcl::PointCloud<pcl::PointXYZRGBA>::Ptr point_cloud, CameraPose Rt)
+avg_pps	include/Basics.h	/^		Eigen::Vector3d normal, pps, rgb, avg_pps, avg_rgb;$/;"	m	struct:sun::Plane	access:public
+avg_pps	include/PlaneExtraction.h	/^		Eigen::Vector3d avg_pps, avg_rgb, normal;$/;"	m	struct:sun::Cell	access:public
+avg_rgb	include/Basics.h	/^		Eigen::Vector3d normal, pps, rgb, avg_pps, avg_rgb;$/;"	m	struct:sun::Plane	access:public
+avg_rgb	include/PlaneExtraction.h	/^		Eigen::Vector3d avg_pps, avg_rgb, normal;$/;"	m	struct:sun::Cell	access:public
+bins_d	include/PlaneExtraction.h	/^		int bins_theta,bins_phy,bins_d;$/;"	m	class:sun::PlaneExtraction	access:protected
+bins_d	include/PlaneExtraction.h	/^		int bins_theta,bins_phy,bins_d;$/;"	m	struct:sun::Cells_bottom	access:public
+bins_phy	include/PlaneExtraction.h	/^		int bins_theta,bins_phy,bins_d;$/;"	m	class:sun::PlaneExtraction	access:protected
+bins_phy	include/PlaneExtraction.h	/^		int bins_theta,bins_phy,bins_d;$/;"	m	struct:sun::Cells_bottom	access:public
+bins_theta	include/PlaneExtraction.h	/^		int bins_theta,bins_phy,bins_d;$/;"	m	class:sun::PlaneExtraction	access:protected
+bins_theta	include/PlaneExtraction.h	/^		int bins_theta,bins_phy,bins_d;$/;"	m	struct:sun::Cells_bottom	access:public
+cells	include/PlaneExtraction.h	/^		std::vector<Cell> cells;$/;"	m	struct:sun::Cells_bottom	access:public
+cells_bottom	include/PlaneExtraction.h	/^		Cells_bottom *cells_bottom;$/;"	m	class:sun::PlaneExtraction	access:protected
+children	include/PlaneMatching_Interptree.h	/^		std::vector<Node_InterpTree*> children;$/;"	m	struct:sun::Node_InterpTree	access:public
+color2grey	include/PlaneFilter.h	/^		void color2grey();$/;"	p	class:sun::PlaneFilter	access:private	signature:()
+color2grey	src/PlaneFilter.cpp	/^	void PlaneFilter::color2grey()$/;"	f	class:sun::PlaneFilter	signature:()
+color_response	include/PlaneFilter.h	/^		std::map<Pixel,double> color_response;$/;"	m	class:sun::PlaneFilter	access:private
+computePlaneAvgCov	include/PlaneExtraction_RANSAC.h	/^		void computePlaneAvgCov(Plane *plane);$/;"	p	class:sun::PlaneExtraction_RANSAC	access:private	signature:(Plane *plane)
+computePlaneAvgCov	src/PlaneExtraction_RANSAC.cpp	/^	void PlaneExtraction_RANSAC::computePlaneAvgCov(Plane *plane)$/;"	f	class:sun::PlaneExtraction_RANSAC	signature:(Plane *plane)
+computePlaneParas	include/PlaneExtraction.h	/^		void computePlaneParas(Plane *plane);$/;"	p	class:sun::PlaneExtraction	access:protected	signature:(Plane *plane)
+computePlaneParas	src/PlaneExtraction.cpp	/^	void PlaneExtraction::computePlaneParas(Plane *plane)$/;"	f	class:sun::PlaneExtraction	signature:(Plane *plane)
+compute_H	include/CameraPoseEstimation.h	/^		void compute_H();$/;"	p	class:sun::CameraPoseEstimation	access:protected	signature:()
+compute_H	src/CameraPoseEstimation.cpp	/^	void CameraPoseEstimation::compute_H()$/;"	f	class:sun::CameraPoseEstimation	signature:()
+consistent_1	include/PlaneMatching_Interptree.h	/^		bool consistent_1(Node_InterpTree *node);$/;"	p	class:sun::InterpTree	access:private	signature:(Node_InterpTree *node)
+consistent_1	src/PlaneMatching_Interptree.cpp	/^	bool InterpTree::consistent_1(Node_InterpTree *node)$/;"	f	class:sun::InterpTree	signature:(Node_InterpTree *node)
+consistent_2	include/PlaneMatching_Interptree.h	/^		bool consistent_2(Node_InterpTree *node1, Node_InterpTree *node2);$/;"	p	class:sun::InterpTree	access:private	signature:(Node_InterpTree *node1, Node_InterpTree *node2)
+consistent_2	src/PlaneMatching_Interptree.cpp	/^	bool InterpTree::consistent_2(Node_InterpTree *node1, Node_InterpTree *node2)$/;"	f	class:sun::InterpTree	signature:(Node_InterpTree *node1, Node_InterpTree *node2)
+consistent_3	include/PlaneMatching_Interptree.h	/^		bool consistent_3(Node_InterpTree *node1, Node_InterpTree *node2, Node_InterpTree *node3);$/;"	p	class:sun::InterpTree	access:private	signature:(Node_InterpTree *node1, Node_InterpTree *node2, Node_InterpTree *node3)
+consistent_3	src/PlaneMatching_Interptree.cpp	/^	bool InterpTree::consistent_3(Node_InterpTree *node1, Node_InterpTree *node2, Node_InterpTree *node3)$/;"	f	class:sun::InterpTree	signature:(Node_InterpTree *node1, Node_InterpTree *node2, Node_InterpTree *node3)
+constraint_case	include/CameraPoseEstimation.h	/^		ConstraintCase constraint_case();$/;"	p	class:sun::CameraPoseEstimation	access:protected	signature:()
+constraint_case	src/CameraPoseEstimation.cpp	/^	CameraPoseEstimation::ConstraintCase CameraPoseEstimation::constraint_case()$/;"	f	class:sun::CameraPoseEstimation	signature:()
+cov	include/Basics.h	/^		Eigen::Matrix3d cov; \/\/ for icp;$/;"	m	struct:sun::Point	access:public
+cov_pps	include/Basics.h	/^		Eigen::Matrix3d cov_pps, cov_rgb;$/;"	m	struct:sun::Plane	access:public
+cov_pps	include/PlaneExtraction.h	/^		Eigen::Matrix3d cov_pps, cov_rgb;$/;"	m	struct:sun::Cell	access:public
+cov_rgb	include/Basics.h	/^		Eigen::Matrix3d cov_pps, cov_rgb;$/;"	m	struct:sun::Plane	access:public
+cov_rgb	include/PlaneExtraction.h	/^		Eigen::Matrix3d cov_pps, cov_rgb;$/;"	m	struct:sun::Cell	access:public
+cur	include/Basics.h	/^		Plane *cur;$/;"	m	struct:sun::PlanePair	access:public
+cx	include/DataReading.h	/^		double fx,fy,cx,cy,factor;$/;"	m	class:sun::DataReading	access:private
+cx	include/PlaneFilter.h	/^		double cx,cy;$/;"	m	class:sun::PlaneFilter	access:private
+cy	include/DataReading.h	/^		double fx,fy,cx,cy,factor;$/;"	m	class:sun::DataReading	access:private
+cy	include/PlaneFilter.h	/^		double cx,cy;$/;"	m	class:sun::PlaneFilter	access:private
+d	include/Basics.h	/^		double d;$/;"	m	struct:sun::Plane	access:public
+d	include/Basics.h	/^		int theta,phy,d,layer;$/;"	m	struct:sun::Pixel_pps	access:public
+d	include/PlaneExtraction.h	/^		double d;$/;"	m	struct:sun::Cell	access:public
+debug	include/CameraPoseEstimation.h	/^		bool debug;$/;"	m	class:sun::CameraPoseEstimation	access:protected
+debug	include/DataReading.h	/^		bool debug;$/;"	m	class:sun::DataReading	access:private
+debug	include/PlaneExtraction.h	/^		bool debug;$/;"	m	class:sun::PlaneExtraction	access:protected
+debug	include/PlaneFilter.h	/^		bool debug;$/;"	m	class:sun::PlaneFilter	access:private
+debug	include/PlaneMatching.h	/^		bool debug;$/;"	m	class:sun::PlaneMatching	access:protected
+debug	include/PlaneMatching_Interptree.h	/^		bool debug;$/;"	m	class:sun::InterpTree	access:private
+delta_d	include/PlaneExtraction.h	/^		double delta_theta,delta_phy,delta_d;$/;"	m	struct:sun::Cells_bottom	access:public
+delta_phy	include/PlaneExtraction.h	/^		double delta_theta,delta_phy,delta_d;$/;"	m	struct:sun::Cells_bottom	access:public
+delta_theta	include/PlaneExtraction.h	/^		double delta_theta,delta_phy,delta_d;$/;"	m	struct:sun::Cells_bottom	access:public
+density_response	include/PlaneFilter.h	/^		std::map<Pixel,double> density_response;$/;"	m	class:sun::PlaneFilter	access:private
+dist_point2plane	include/PlaneExtraction_RANSAC.h	/^		double dist_point2plane(Eigen::Vector3d point, pcl::ModelCoefficients::Ptr plane);$/;"	p	class:sun::PlaneExtraction_RANSAC	access:private	signature:(Eigen::Vector3d point, pcl::ModelCoefficients::Ptr plane)
+dist_point2plane	src/PlaneExtraction_RANSAC.cpp	/^	double PlaneExtraction_RANSAC::dist_point2plane(Eigen::Vector3d point, pcl::ModelCoefficients::Ptr plane)$/;"	f	class:sun::PlaneExtraction_RANSAC	signature:(Eigen::Vector3d point, pcl::ModelCoefficients::Ptr plane)
+edge_response	include/PlaneFilter.h	/^		std::map<Pixel,double> edge_response;$/;"	m	class:sun::PlaneFilter	access:private
+factor	include/DataReading.h	/^		double fx,fy,cx,cy,factor;$/;"	m	class:sun::DataReading	access:private
+features	build/CMakeFiles/feature_tests.c	/^  const char features[] = {""$/;"	v
+features	build/CMakeFiles/feature_tests.cxx	/^  const char features[] = {""$/;"	v
+filename_depth	include/DataReading.h	/^		std::string filename_rgb, filename_depth; \/\/ rgb\/*.png, depth\/*.png$/;"	m	class:sun::DataReading	access:private
+filename_rgb	include/DataReading.h	/^		std::string filename_rgb, filename_depth; \/\/ rgb\/*.png, depth\/*.png$/;"	m	class:sun::DataReading	access:private
+filter	include/PlaneFilter.h	/^		void filter(Plane *plane);$/;"	p	class:sun::PlaneFilter	access:public	signature:(Plane *plane)
+filter	src/PlaneFilter.cpp	/^	void PlaneFilter::filter(Plane *plane)$/;"	f	class:sun::PlaneFilter	signature:(Plane *plane)
+fp_depth	include/DataReading.h	/^		std::ifstream fp_rgb,fp_depth; \/\/ rgb.txt, depth.txt$/;"	m	class:sun::DataReading	access:private
+fp_rgb	include/DataReading.h	/^		std::ifstream fp_rgb,fp_depth; \/\/ rgb.txt, depth.txt$/;"	m	class:sun::DataReading	access:private
+freiburg	include/DataReading.h	/^		const std::string freiburg; \/\/ name of the dir $/;"	m	class:sun::DataReading	access:private
+fusePlanes	include/PlaneExtraction_RANSAC.h	/^		void fusePlanes(int i_plane, Plane *cur);$/;"	p	class:sun::PlaneExtraction_RANSAC	access:private	signature:(int i_plane, Plane *cur)
+fusePlanes	src/PlaneExtraction_RANSAC.cpp	/^	void PlaneExtraction_RANSAC::fusePlanes(int i_plane, Plane *tmp_plane)$/;"	f	class:sun::PlaneExtraction_RANSAC	signature:(int i_plane, Plane *tmp_plane)
+fx	include/DataReading.h	/^		double fx,fy,cx,cy,factor;$/;"	m	class:sun::DataReading	access:private
+fy	include/DataReading.h	/^		double fx,fy,cx,cy,factor;$/;"	m	class:sun::DataReading	access:private
+getCameraPose	include/CameraPoseEstimation.h	/^		CameraPose getCameraPose() {return pose_align_scans;}$/;"	f	class:sun::CameraPoseEstimation	access:public	signature:()
+getCell	include/PlaneExtraction.h	/^		Cell* getCell(int d, int theta, int phy) {return &cells[index(d,theta,phy)];}$/;"	f	struct:sun::Cells_bottom	access:public	signature:(int d, int theta, int phy)
+getMaxInterp	include/PlaneMatching_Interptree.h	/^		Node_InterpTree* getMaxInterp() {return leaf_max_interp;}$/;"	f	class:sun::InterpTree	access:public	signature:()
+getNodeNum	include/PlaneMatching_Interptree.h	/^		int getNodeNum() {return nodes.size();}$/;"	f	class:sun::InterpTree	access:public	signature:()
+getNormalCloud	include/DataReading.h	/^		pcl::PointCloud<pcl::Normal>::Ptr getNormalCloud() {return normal_cloud;}$/;"	f	class:sun::DataReading	access:public	signature:()
+getPixelCloud	include/DataReading.h	/^		pcl::PointCloud<pcl::PointXY>::Ptr getPixelCloud() {return pixel_cloud;}$/;"	f	class:sun::DataReading	access:public	signature:()
+getPointCloud	include/DataReading.h	/^		pcl::PointCloud<pcl::PointXYZRGBA>::Ptr getPointCloud() {return point_cloud;}$/;"	f	class:sun::DataReading	access:public	signature:()
+getPoseAlignPlanes	include/CameraPoseEstimation_PlaneParas.h	/^		CameraPose getPoseAlignPlanes() {return pose_align_planes;}$/;"	f	class:sun::CameraPoseEstimation_PlaneParas	access:public	signature:()
+getRoot	include/PlaneMatching_Interptree.h	/^		Node_InterpTree* getRoot() {return root;}$/;"	f	class:sun::InterpTree	access:public	signature:()
+getTransform	include/Basics.h	/^		Eigen::Matrix4f getTransform()$/;"	f	struct:sun::CameraPose	access:public	signature:()
+grey	include/PlaneFilter.h	/^		std::map<Pixel,double> grey;$/;"	m	class:sun::PlaneFilter	access:private
+index	include/Basics.h	/^		int index;$/;"	m	struct:sun::Plane	access:public
+index	include/PlaneExtraction.h	/^		int index(int d, int theta, int phy) {return d*bins_theta*bins_phy+theta*bins_phy+phy;}$/;"	f	struct:sun::Cells_bottom	access:public	signature:(int d, int theta, int phy)
+index	include/PlaneExtraction.h	/^		int index;$/;"	m	class:sun::Sorted_Cell	access:public
+index_map	include/PlaneFilter.h	/^		std::map<Pixel,Point*> index_map;$/;"	m	class:sun::PlaneFilter	access:private
+info_arch	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	/^char const* info_arch = "INFO" ":" "arch[" ARCHITECTURE_ID "]";$/;"	v
+info_arch	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_arch = "INFO" ":" "arch[" ARCHITECTURE_ID "]";$/;"	v
+info_compiler	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	/^char const* info_compiler = "INFO" ":" "compiler[" COMPILER_ID "]";$/;"	v
+info_compiler	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_compiler = "INFO" ":" "compiler[" COMPILER_ID "]";$/;"	v
+info_platform	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	/^char const* info_platform = "INFO" ":" "platform[" PLATFORM_ID "]";$/;"	v
+info_platform	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_platform = "INFO" ":" "platform[" PLATFORM_ID "]";$/;"	v
+info_simulate	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	/^char const* info_simulate = "INFO" ":" "simulate[" SIMULATE_ID "]";$/;"	v
+info_simulate	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_simulate = "INFO" ":" "simulate[" SIMULATE_ID "]";$/;"	v
+info_simulate_version	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	/^char const info_simulate_version[] = {$/;"	v
+info_simulate_version	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const info_simulate_version[] = {$/;"	v
+info_version	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	/^char const info_version[] = {$/;"	v
+info_version	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const info_version[] = {$/;"	v
+inliers	include/PlaneExtraction.h	/^		pcl::PointIndices::Ptr inliers;$/;"	m	struct:sun::Cell	access:public
+insertChild	include/PlaneMatching_Interptree.h	/^		void insertChild(Node_InterpTree*);$/;"	p	struct:sun::Node_InterpTree	access:public	signature:(Node_InterpTree*)
+insertChild	src/PlaneMatching_Interptree.cpp	/^	void Node_InterpTree::insertChild(Node_InterpTree *node)$/;"	f	class:sun::Node_InterpTree	signature:(Node_InterpTree *node)
+interp_tree	include/PlaneMatching_Interptree.h	/^		InterpTree *interp_tree;$/;"	m	class:sun::PlaneMatching_Interptree	access:private
+isBottom	include/PlaneExtraction.h	/^		bool isBottom;$/;"	m	struct:sun::Cell	access:public
+isEmpty	include/PlaneExtraction.h	/^		bool isEmpty;$/;"	m	struct:sun::Cell	access:public
+isLeaf	include/PlaneMatching_Interptree.h	/^		bool isLeaf(Node_InterpTree *node);$/;"	p	class:sun::InterpTree	access:private	signature:(Node_InterpTree *node)
+isLeaf	src/PlaneMatching_Interptree.cpp	/^	bool InterpTree::isLeaf(Node_InterpTree *node)$/;"	f	class:sun::InterpTree	signature:(Node_InterpTree *node)
+layer	include/Basics.h	/^		int theta,phy,d,layer;$/;"	m	struct:sun::Pixel_pps	access:public
+layer	include/PlaneMatching_Interptree.h	/^		int layer;$/;"	m	struct:sun::Node_InterpTree	access:public
+leaf_max_interp	include/PlaneMatching_Interptree.h	/^		Node_InterpTree *leaf_max_interp;$/;"	m	class:sun::InterpTree	access:private
+loadMatchedPlanes	include/CameraPoseEstimation.h	/^		void loadMatchedPlanes(std::vector<PlanePair> &mp) {matched_planes=mp;}$/;"	f	class:sun::CameraPoseEstimation	access:public	signature:(std::vector<PlanePair> &mp)
+loadNormalCloud	include/PlaneExtraction.h	/^		void loadNormalCloud(pcl::PointCloud<pcl::Normal>::Ptr nc) {normal_cloud=nc;}$/;"	f	class:sun::PlaneExtraction	access:public	signature:(pcl::PointCloud<pcl::Normal>::Ptr nc)
+loadPixelCloud	include/PlaneExtraction.h	/^		void loadPixelCloud(pcl::PointCloud<pcl::PointXY>::Ptr pc) {pixel_cloud=pc;}$/;"	f	class:sun::PlaneExtraction	access:public	signature:(pcl::PointCloud<pcl::PointXY>::Ptr pc)
+loadPlane	include/PlaneFilter.h	/^		void loadPlane(Plane *plane);$/;"	p	class:sun::PlaneFilter	access:private	signature:(Plane *plane)
+loadPlane	src/PlaneFilter.cpp	/^	void PlaneFilter::loadPlane(Plane *plane)$/;"	f	class:sun::PlaneFilter	signature:(Plane *plane)
+loadPlanes	include/PlaneMatching.h	/^		void loadPlanes(std::vector<Plane*> planes_ref,std::vector<Plane*> planes_cur);$/;"	p	class:sun::PlaneMatching	access:public	signature:(std::vector<Plane*> planes_ref,std::vector<Plane*> planes_cur)
+loadPlanes	src/PlaneMatching.cpp	/^	void PlaneMatching::loadPlanes(std::vector<Plane*> _planes_ref, std::vector<Plane*> _planes_cur)$/;"	f	class:sun::PlaneMatching	signature:(std::vector<Plane*> _planes_ref, std::vector<Plane*> _planes_cur)
+loadPointCloud	include/PlaneExtraction.h	/^		void loadPointCloud(pcl::PointCloud<pcl::PointXYZRGBA>::Ptr pc) {point_cloud=pc;}$/;"	f	class:sun::PlaneExtraction	access:public	signature:(pcl::PointCloud<pcl::PointXYZRGBA>::Ptr pc)
+main	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	/^int main(int argc, char* argv[])$/;"	f	signature:(int argc, char* argv[])
+main	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	/^void main() {}$/;"	f
+main	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^int main(int argc, char* argv[])$/;"	f	signature:(int argc, char* argv[])
+main	build/CMakeFiles/feature_tests.c	/^int main(int argc, char** argv) { (void)argv; return features[argc]; }$/;"	f	signature:(int argc, char** argv)
+main	build/CMakeFiles/feature_tests.cxx	/^int main(int argc, char** argv) { (void)argv; return features[argc]; }$/;"	f	signature:(int argc, char** argv)
+main	build/test.cpp	/^int main()$/;"	f	signature:()
+main	main.cpp	/^int main (int argc, char *argv[])$/;"	f	signature:(int argc, char *argv[])
+matched_planes	include/CameraPoseEstimation.h	/^		std::vector<PlanePair> matched_planes;$/;"	m	class:sun::CameraPoseEstimation	access:protected
+max_plane	include/PlaneExtraction_RANSAC.h	/^		int max_plane;$/;"	m	class:sun::PlaneExtraction_RANSAC	access:private
+maxdist_point2plane	include/PlaneExtraction_RANSAC.h	/^		double maxdist_point2plane;$/;"	m	class:sun::PlaneExtraction_RANSAC	access:private
+min_plane_size	include/PlaneExtraction_RANSAC.h	/^		int min_plane_size;$/;"	m	class:sun::PlaneExtraction_RANSAC	access:private
+nodes	include/PlaneMatching_Interptree.h	/^		std::vector<Node_InterpTree*> nodes;$/;"	m	class:sun::InterpTree	access:private
+normal	include/Basics.h	/^		Eigen::Vector3d normal, pps, rgb, avg_pps, avg_rgb;$/;"	m	struct:sun::Plane	access:public
+normal	include/Basics.h	/^		Eigen::Vector3d pps, rgb, xyz, normal;$/;"	m	struct:sun::Point	access:public
+normal	include/PlaneExtraction.h	/^		Eigen::Vector3d avg_pps, avg_rgb, normal;$/;"	m	struct:sun::Cell	access:public
+normal2pps	include/PlaneExtraction.h	/^		Eigen::Vector3d normal2pps(Eigen::Vector3d normal, Eigen::Vector3d point);$/;"	p	class:sun::PlaneExtraction	access:protected	signature:(Eigen::Vector3d normal, Eigen::Vector3d point)
+normal2pps	src/PlaneExtraction.cpp	/^	Eigen::Vector3d PlaneExtraction::normal2pps(Eigen::Vector3d normal, Eigen::Vector3d point)$/;"	f	class:sun::PlaneExtraction	signature:(Eigen::Vector3d normal, Eigen::Vector3d point)
+normal_cloud	include/DataReading.h	/^		pcl::PointCloud<pcl::Normal>::Ptr normal_cloud;$/;"	m	class:sun::DataReading	access:private
+normal_cloud	include/PlaneExtraction.h	/^		pcl::PointCloud<pcl::Normal>::Ptr normal_cloud;$/;"	m	class:sun::PlaneExtraction	access:protected
+normal_estimate	include/DataReading.h	/^		pcl::NormalEstimation<pcl::PointXYZRGBA, pcl::Normal> normal_estimate;$/;"	m	class:sun::DataReading	access:private
+normal_estimate_integral	include/DataReading.h	/^		pcl::IntegralImageNormalEstimation<pcl::PointXYZRGBA, pcl::Normal> normal_estimate_integral;$/;"	m	class:sun::DataReading	access:private
+num_point	include/PlaneExtraction.h	/^		int num_point;$/;"	m	class:sun::Sorted_Cell	access:public
+num_points	include/Basics.h	/^		int num_points;$/;"	m	struct:sun::Plane	access:public
+num_points	include/PlaneExtraction.h	/^		int num_points;$/;"	m	struct:sun::Cell	access:public
+operator <	include/Basics.h	/^		bool operator < (const Pixel &x) const$/;"	f	struct:sun::Pixel	access:public	signature:(const Pixel &x) const
+operator <	include/Basics.h	/^		bool operator < (const Pixel_pps &x) const$/;"	f	struct:sun::Pixel_pps	access:public	signature:(const Pixel_pps &x) const
+operator <	include/PlaneExtraction.h	/^		bool operator < (const Sorted_Cell &m)const$/;"	f	class:sun::Sorted_Cell	access:public	signature:(const Sorted_Cell &m) const
+parent	include/PlaneMatching_Interptree.h	/^		Node_InterpTree *parent;$/;"	m	struct:sun::Node_InterpTree	access:public
+phy	include/Basics.h	/^		int theta,phy,d,layer;$/;"	m	struct:sun::Pixel_pps	access:public
+pixel_cloud	include/DataReading.h	/^		pcl::PointCloud<pcl::PointXY>::Ptr pixel_cloud;$/;"	m	class:sun::DataReading	access:private
+pixel_cloud	include/PlaneExtraction.h	/^		pcl::PointCloud<pcl::PointXY>::Ptr pixel_cloud;$/;"	m	class:sun::PlaneExtraction	access:protected
+plane2cloud	main.cpp	/^void plane2cloud(Plane *plane, pcl::PointCloud<pcl::PointXYZRGBA>::Ptr cloud_show)$/;"	f	signature:(Plane *plane, pcl::PointCloud<pcl::PointXYZRGBA>::Ptr cloud_show)
+plane_cur	include/PlaneMatching_Interptree.h	/^		Plane *plane_ref,*plane_cur;$/;"	m	struct:sun::Node_InterpTree	access:public
+plane_ref	include/PlaneMatching_Interptree.h	/^		Plane *plane_ref,*plane_cur;$/;"	m	struct:sun::Node_InterpTree	access:public
+planes	include/Basics.h	/^		std::vector<Plane*> planes;$/;"	m	struct:sun::Scan	access:public
+planes	include/PlaneExtraction.h	/^		std::vector<Plane*> planes;$/;"	m	class:sun::PlaneExtraction	access:protected
+planes_cur	include/PlaneMatching.h	/^		std::vector<Plane*> planes_cur;$/;"	m	class:sun::PlaneMatching	access:protected
+planes_ref	include/PlaneMatching.h	/^		std::vector<Plane*> planes_ref;$/;"	m	class:sun::PlaneMatching	access:protected
+point_cloud	include/Basics.h	/^		pcl::PointCloud<pcl::PointXYZRGBA>::Ptr point_cloud;$/;"	m	struct:sun::Scan	access:public
+point_cloud	include/DataReading.h	/^		pcl::PointCloud<pcl::PointXYZRGBA>::Ptr point_cloud;$/;"	m	class:sun::DataReading	access:private
+point_cloud	include/PlaneExtraction.h	/^		pcl::PointCloud<pcl::PointXYZRGBA>::Ptr point_cloud;$/;"	m	class:sun::PlaneExtraction	access:protected
+points	include/PlaneExtraction.h	/^		std::vector<Point> points;$/;"	m	class:sun::PlaneExtraction	access:protected
+points_edge	include/Basics.h	/^		std::list<Point*> points_edge; \/\/ point to the points in points_in;$/;"	m	struct:sun::Plane	access:public
+points_in	include/Basics.h	/^		std::list<Point> points_in;$/;"	m	struct:sun::Plane	access:public
+points_in	include/PlaneExtraction.h	/^		std::list<Point> points_in;$/;"	m	struct:sun::Cell	access:public
+pose	include/Basics.h	/^		CameraPose pose;$/;"	m	struct:sun::Scan	access:public
+pose_align_planes	include/CameraPoseEstimation_PlaneParas.h	/^		CameraPose pose_align_planes;$/;"	m	class:sun::CameraPoseEstimation_PlaneParas	access:private
+pose_align_scans	include/CameraPoseEstimation.h	/^		CameraPose pose_align_scans;$/;"	m	class:sun::CameraPoseEstimation	access:protected
+position	include/Basics.h	/^		Eigen::Vector3d position;$/;"	m	struct:sun::CameraPose	access:public
+pps	include/Basics.h	/^		Eigen::Vector3d normal, pps, rgb, avg_pps, avg_rgb;$/;"	m	struct:sun::Plane	access:public
+pps	include/Basics.h	/^		Eigen::Vector3d pps, rgb, xyz, normal;$/;"	m	struct:sun::Point	access:public
+pps2normal	include/PlaneExtraction.h	/^		Eigen::Vector3d pps2normal(Eigen::Vector3d pps);$/;"	p	class:sun::PlaneExtraction	access:protected	signature:(Eigen::Vector3d pps)
+pps2normal	src/PlaneExtraction.cpp	/^	Eigen::Vector3d PlaneExtraction::pps2normal(Eigen::Vector3d pps)$/;"	f	class:sun::PlaneExtraction	signature:(Eigen::Vector3d pps)
+print	include/DataReading.h	/^		void print() {std::cout<<freiburg<<std::endl;}$/;"	f	class:sun::DataReading	access:public	signature:()
+push_point	include/PlaneExtraction.h	/^		void push_point(Point point_tmp, int inlier);$/;"	p	struct:sun::Cells_bottom	access:public	signature:(Point point_tmp, int inlier)
+push_point	src/PlaneExtraction.cpp	/^	void Cells_bottom::push_point(Point point_tmp, int inlier)$/;"	f	class:sun::Cells_bottom	signature:(Point point_tmp, int inlier)
+qnxnto	build/CMakeFiles/3.2.2/CompilerIdC/CMakeCCompilerId.c	/^char const* qnxnto = "INFO" ":" "qnxnto[]";$/;"	v
+qnxnto	build/CMakeFiles/3.2.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* qnxnto = "INFO" ":" "qnxnto[]";$/;"	v
+ref	include/Basics.h	/^		Plane *ref;$/;"	m	struct:sun::PlanePair	access:public
+rgb	include/Basics.h	/^		Eigen::Vector3d normal, pps, rgb, avg_pps, avg_rgb;$/;"	m	struct:sun::Plane	access:public
+rgb	include/Basics.h	/^		Eigen::Vector3d pps, rgb, xyz, normal;$/;"	m	struct:sun::Point	access:public
+root	include/PlaneMatching_Interptree.h	/^		Node_InterpTree *root;$/;"	m	class:sun::InterpTree	access:private
+rotation_plane2camera	include/PlaneFilter.h	/^		Eigen::Matrix3d rotation_plane2camera(Eigen::Vector3d n);$/;"	p	class:sun::PlaneFilter	access:private	signature:(Eigen::Vector3d n)
+rotation_plane2camera	src/PlaneFilter.cpp	/^	Eigen::Matrix3d PlaneFilter::rotation_plane2camera(Eigen::Vector3d n)$/;"	f	class:sun::PlaneFilter	signature:(Eigen::Vector3d n)
+sample_interval	include/DataReading.h	/^		double sample_interval;$/;"	m	class:sun::DataReading	access:private
+scans	include/MapIncremental.h	/^		std::vector<Scan> scans;$/;"	m	class:sun::MapIncremental	access:private
+seeGrid	include/PlaneExtraction_RANSAC.h	/^		void seeGrid();$/;"	p	class:sun::PlaneExtraction_RANSAC	access:public	signature:()
+seeGrid	src/PlaneExtraction_RANSAC.cpp	/^	void PlaneExtraction_RANSAC::seeGrid()$/;"	f	class:sun::PlaneExtraction_RANSAC	signature:()
+setCorrespondence	include/CameraPoseEstimation_ShadowSM.h	/^		void setCorrespondence();$/;"	p	class:sun::CameraPoseEstimation_ShadowSM	access:public	signature:()
+setCorrespondence	src/CameraPoseEstimation_ShadowSM.cpp	/^	void CameraPoseEstimation_ShadowSM::setCorrespondence()$/;"	f	class:sun::CameraPoseEstimation_ShadowSM	signature:()
+setDebug	include/CameraPoseEstimation.h	/^		void setDebug(bool d) {debug=d;}$/;"	f	class:sun::CameraPoseEstimation	access:public	signature:(bool d)
+setDebug	include/DataReading.h	/^		void setDebug(bool d) {debug=d;}$/;"	f	class:sun::DataReading	access:public	signature:(bool d)
+setDebug	include/PlaneExtraction.h	/^		void setDebug(bool d) {debug=d;}$/;"	f	class:sun::PlaneExtraction	access:public	signature:(bool d)
+setDebug	include/PlaneFilter.h	/^		void setDebug(bool d) {debug=d;}$/;"	f	class:sun::PlaneFilter	access:public	signature:(bool d)
+setDebug	include/PlaneMatching.h	/^		void setDebug(bool d) {debug=d;}$/;"	f	class:sun::PlaneMatching	access:public	signature:(bool d)
+setDebug	include/PlaneMatching_Interptree.h	/^		void setDebug(bool d) {debug=d;}$/;"	f	class:sun::InterpTree	access:public	signature:(bool d)
+setNormalEstimation	include/DataReading.h	/^		void setNormalEstimation(double radius);$/;"	p	class:sun::DataReading	access:public	signature:(double radius)
+setNormalEstimation	include/DataReading.h	/^		void setNormalEstimation(int k);$/;"	p	class:sun::DataReading	access:public	signature:(int k)
+setNormalEstimation	include/DataReading.h	/^		void setNormalEstimation(pcl::IntegralImageNormalEstimation<pcl::PointXYZRGBA,$/;"	p	class:sun::DataReading	access:public	signature:(pcl::IntegralImageNormalEstimation<pcl::PointXYZRGBA, pcl::Normal>::NormalEstimationMethod method, float MaxDepthChangeFactor, float NormalSmoothingSize)
+setNormalEstimation	src/DataReading.cpp	/^	void DataReading::setNormalEstimation(double radius)$/;"	f	class:sun::DataReading	signature:(double radius)
+setNormalEstimation	src/DataReading.cpp	/^	void DataReading::setNormalEstimation(int k)$/;"	f	class:sun::DataReading	signature:(int k)
+setNormalEstimation	src/DataReading.cpp	/^	void DataReading::setNormalEstimation(pcl::IntegralImageNormalEstimation<pcl::PointXYZRGBA, $/;"	f	class:sun::DataReading	signature:(pcl::IntegralImageNormalEstimation<pcl::PointXYZRGBA, pcl::Normal>::NormalEstimationMethod method, float MaxDepthChangeFactor, float NormalSmoothingSize)
+setParent	include/PlaneMatching_Interptree.h	/^		void setParent(Node_InterpTree*);$/;"	p	struct:sun::Node_InterpTree	access:public	signature:(Node_InterpTree*)
+setParent	src/PlaneMatching_Interptree.cpp	/^	void Node_InterpTree::setParent(Node_InterpTree *node)$/;"	f	class:sun::Node_InterpTree	signature:(Node_InterpTree *node)
+setSampleInterval	include/DataReading.h	/^		void setSampleInterval(double delta_t) {sample_interval=delta_t;}$/;"	f	class:sun::DataReading	access:public	signature:(double delta_t)
+showScans	include/MapIncremental.h	/^		void showScans();$/;"	p	class:sun::MapIncremental	access:public	signature:()
+showScans	src/MapIncremental.cpp	/^	void MapIncremental::showScans()$/;"	f	class:sun::MapIncremental	signature:()
+sorted_cells	include/PlaneExtraction.h	/^		std::vector<Sorted_Cell> sorted_cells;$/;"	m	struct:sun::Cells_bottom	access:public
+step	include/Basics.h	/^		int step;$/;"	m	struct:sun::Pixel	access:public
+step_phy	include/Basics.h	/^		int step_theta,step_phy;$/;"	m	struct:sun::Pixel_pps	access:public
+step_theta	include/Basics.h	/^		int step_theta,step_phy;$/;"	m	struct:sun::Pixel_pps	access:public
+sun	include/Basics.h	/^namespace sun$/;"	n
+sun	include/CameraPoseEstimation.h	/^namespace sun$/;"	n
+sun	include/CameraPoseEstimation_PlaneParas.h	/^namespace sun$/;"	n
+sun	include/CameraPoseEstimation_ShadowSM.h	/^namespace sun$/;"	n
+sun	include/DataReading.h	/^namespace sun$/;"	n
+sun	include/MapIncremental.h	/^namespace sun$/;"	n
+sun	include/PlaneExtraction.h	/^namespace sun$/;"	n
+sun	include/PlaneExtraction_RANSAC.h	/^namespace sun$/;"	n
+sun	include/PlaneFilter.h	/^namespace sun$/;"	n
+sun	include/PlaneMatching.h	/^namespace sun$/;"	n
+sun	include/PlaneMatching_Interptree.h	/^namespace sun$/;"	n
+sun	src/Basics.cpp	/^namespace sun$/;"	n	file:
+sun	src/CameraPoseEstimation.cpp	/^namespace sun$/;"	n	file:
+sun	src/CameraPoseEstimation_PlaneParas.cpp	/^namespace sun$/;"	n	file:
+sun	src/CameraPoseEstimation_ShadowSM.cpp	/^namespace sun$/;"	n	file:
+sun	src/DataReading.cpp	/^namespace sun$/;"	n	file:
+sun	src/MapIncremental.cpp	/^namespace sun$/;"	n	file:
+sun	src/PlaneExtraction.cpp	/^namespace sun$/;"	n	file:
+sun	src/PlaneExtraction_RANSAC.cpp	/^namespace sun$/;"	n	file:
+sun	src/PlaneFilter.cpp	/^namespace sun$/;"	n	file:
+sun	src/PlaneMatching.cpp	/^namespace sun$/;"	n	file:
+sun	src/PlaneMatching_Interptree.cpp	/^namespace sun$/;"	n	file:
+sun::CameraPose	include/Basics.h	/^	struct CameraPose$/;"	s	namespace:sun
+sun::CameraPose::Eulars	include/Basics.h	/^		Eigen::Vector3d Eulars() {return Rotation.eulerAngles(2,1,0);}$/;"	f	struct:sun::CameraPose	access:public	signature:()
+sun::CameraPose::Quat	include/Basics.h	/^		Eigen::Quaterniond Quat() {return Eigen::Quaterniond(Rotation);}$/;"	f	struct:sun::CameraPose	access:public	signature:()
+sun::CameraPose::Rotation	include/Basics.h	/^		Eigen::Matrix3d Rotation;$/;"	m	struct:sun::CameraPose	access:public
+sun::CameraPose::getTransform	include/Basics.h	/^		Eigen::Matrix4f getTransform()$/;"	f	struct:sun::CameraPose	access:public	signature:()
+sun::CameraPose::position	include/Basics.h	/^		Eigen::Vector3d position;$/;"	m	struct:sun::CameraPose	access:public
+sun::CameraPoseEstimation	include/CameraPoseEstimation.h	/^	class CameraPoseEstimation$/;"	c	namespace:sun
+sun::CameraPoseEstimation::CameraPoseEstimation	include/CameraPoseEstimation.h	/^		CameraPoseEstimation();$/;"	p	class:sun::CameraPoseEstimation	access:public	signature:()
+sun::CameraPoseEstimation::CameraPoseEstimation	src/CameraPoseEstimation.cpp	/^	CameraPoseEstimation::CameraPoseEstimation()$/;"	f	class:sun::CameraPoseEstimation	signature:()
+sun::CameraPoseEstimation::ConstraintCase	include/CameraPoseEstimation.h	/^		enum ConstraintCase { DoF_6, DoF_5, DoF_3 };$/;"	g	class:sun::CameraPoseEstimation	access:public
+sun::CameraPoseEstimation::DoF_3	include/CameraPoseEstimation.h	/^		enum ConstraintCase { DoF_6, DoF_5, DoF_3 };$/;"	e	enum:sun::CameraPoseEstimation::ConstraintCase
+sun::CameraPoseEstimation::DoF_5	include/CameraPoseEstimation.h	/^		enum ConstraintCase { DoF_6, DoF_5, DoF_3 };$/;"	e	enum:sun::CameraPoseEstimation::ConstraintCase
+sun::CameraPoseEstimation::DoF_6	include/CameraPoseEstimation.h	/^		enum ConstraintCase { DoF_6, DoF_5, DoF_3 };$/;"	e	enum:sun::CameraPoseEstimation::ConstraintCase
+sun::CameraPoseEstimation::H	include/CameraPoseEstimation.h	/^		Eigen::Matrix3d H, H_svd_U, H_svd_V;$/;"	m	class:sun::CameraPoseEstimation	access:protected
+sun::CameraPoseEstimation::H_svd_U	include/CameraPoseEstimation.h	/^		Eigen::Matrix3d H, H_svd_U, H_svd_V;$/;"	m	class:sun::CameraPoseEstimation	access:protected
+sun::CameraPoseEstimation::H_svd_V	include/CameraPoseEstimation.h	/^		Eigen::Matrix3d H, H_svd_U, H_svd_V;$/;"	m	class:sun::CameraPoseEstimation	access:protected
+sun::CameraPoseEstimation::compute_H	include/CameraPoseEstimation.h	/^		void compute_H();$/;"	p	class:sun::CameraPoseEstimation	access:protected	signature:()
+sun::CameraPoseEstimation::compute_H	src/CameraPoseEstimation.cpp	/^	void CameraPoseEstimation::compute_H()$/;"	f	class:sun::CameraPoseEstimation	signature:()
+sun::CameraPoseEstimation::constraint_case	include/CameraPoseEstimation.h	/^		ConstraintCase constraint_case();$/;"	p	class:sun::CameraPoseEstimation	access:protected	signature:()
+sun::CameraPoseEstimation::constraint_case	src/CameraPoseEstimation.cpp	/^	CameraPoseEstimation::ConstraintCase CameraPoseEstimation::constraint_case()$/;"	f	class:sun::CameraPoseEstimation	signature:()
+sun::CameraPoseEstimation::debug	include/CameraPoseEstimation.h	/^		bool debug;$/;"	m	class:sun::CameraPoseEstimation	access:protected
+sun::CameraPoseEstimation::getCameraPose	include/CameraPoseEstimation.h	/^		CameraPose getCameraPose() {return pose_align_scans;}$/;"	f	class:sun::CameraPoseEstimation	access:public	signature:()
+sun::CameraPoseEstimation::loadMatchedPlanes	include/CameraPoseEstimation.h	/^		void loadMatchedPlanes(std::vector<PlanePair> &mp) {matched_planes=mp;}$/;"	f	class:sun::CameraPoseEstimation	access:public	signature:(std::vector<PlanePair> &mp)
+sun::CameraPoseEstimation::matched_planes	include/CameraPoseEstimation.h	/^		std::vector<PlanePair> matched_planes;$/;"	m	class:sun::CameraPoseEstimation	access:protected
+sun::CameraPoseEstimation::pose_align_scans	include/CameraPoseEstimation.h	/^		CameraPose pose_align_scans;$/;"	m	class:sun::CameraPoseEstimation	access:protected
+sun::CameraPoseEstimation::setDebug	include/CameraPoseEstimation.h	/^		void setDebug(bool d) {debug=d;}$/;"	f	class:sun::CameraPoseEstimation	access:public	signature:(bool d)
+sun::CameraPoseEstimation::~CameraPoseEstimation	include/CameraPoseEstimation.h	/^		~CameraPoseEstimation();$/;"	p	class:sun::CameraPoseEstimation	access:public	signature:()
+sun::CameraPoseEstimation::~CameraPoseEstimation	src/CameraPoseEstimation.cpp	/^	CameraPoseEstimation::~CameraPoseEstimation()$/;"	f	class:sun::CameraPoseEstimation	signature:()
+sun::CameraPoseEstimation_PlaneParas	include/CameraPoseEstimation_PlaneParas.h	/^	class CameraPoseEstimation_PlaneParas : public  CameraPoseEstimation$/;"	c	namespace:sun	inherits:CameraPoseEstimation
+sun::CameraPoseEstimation_PlaneParas::CameraPoseEstimation_PlaneParas	include/CameraPoseEstimation_PlaneParas.h	/^		CameraPoseEstimation_PlaneParas();$/;"	p	class:sun::CameraPoseEstimation_PlaneParas	access:public	signature:()
+sun::CameraPoseEstimation_PlaneParas::CameraPoseEstimation_PlaneParas	src/CameraPoseEstimation_PlaneParas.cpp	/^	CameraPoseEstimation_PlaneParas::CameraPoseEstimation_PlaneParas()$/;"	f	class:sun::CameraPoseEstimation_PlaneParas	signature:()
+sun::CameraPoseEstimation_PlaneParas::Pose2AlignPlanes	include/CameraPoseEstimation_PlaneParas.h	/^		void Pose2AlignPlanes();$/;"	p	class:sun::CameraPoseEstimation_PlaneParas	access:public	signature:()
+sun::CameraPoseEstimation_PlaneParas::Pose2AlignPlanes	src/CameraPoseEstimation_PlaneParas.cpp	/^	void CameraPoseEstimation_PlaneParas::Pose2AlignPlanes()$/;"	f	class:sun::CameraPoseEstimation_PlaneParas	signature:()
+sun::CameraPoseEstimation_PlaneParas::getPoseAlignPlanes	include/CameraPoseEstimation_PlaneParas.h	/^		CameraPose getPoseAlignPlanes() {return pose_align_planes;}$/;"	f	class:sun::CameraPoseEstimation_PlaneParas	access:public	signature:()
+sun::CameraPoseEstimation_PlaneParas::pose_align_planes	include/CameraPoseEstimation_PlaneParas.h	/^		CameraPose pose_align_planes;$/;"	m	class:sun::CameraPoseEstimation_PlaneParas	access:private
+sun::CameraPoseEstimation_PlaneParas::~CameraPoseEstimation_PlaneParas	include/CameraPoseEstimation_PlaneParas.h	/^		~CameraPoseEstimation_PlaneParas();$/;"	p	class:sun::CameraPoseEstimation_PlaneParas	access:public	signature:()
+sun::CameraPoseEstimation_PlaneParas::~CameraPoseEstimation_PlaneParas	src/CameraPoseEstimation_PlaneParas.cpp	/^	CameraPoseEstimation_PlaneParas::~CameraPoseEstimation_PlaneParas()$/;"	f	class:sun::CameraPoseEstimation_PlaneParas	signature:()
+sun::CameraPoseEstimation_ShadowSM	include/CameraPoseEstimation_ShadowSM.h	/^	class CameraPoseEstimation_ShadowSM : public  CameraPoseEstimation$/;"	c	namespace:sun	inherits:CameraPoseEstimation
+sun::CameraPoseEstimation_ShadowSM::CameraPoseEstimation_ShadowSM	include/CameraPoseEstimation_ShadowSM.h	/^		CameraPoseEstimation_ShadowSM();$/;"	p	class:sun::CameraPoseEstimation_ShadowSM	access:public	signature:()
+sun::CameraPoseEstimation_ShadowSM::CameraPoseEstimation_ShadowSM	src/CameraPoseEstimation_ShadowSM.cpp	/^	CameraPoseEstimation_ShadowSM::CameraPoseEstimation_ShadowSM()$/;"	f	class:sun::CameraPoseEstimation_ShadowSM	signature:()
+sun::CameraPoseEstimation_ShadowSM::setCorrespondence	include/CameraPoseEstimation_ShadowSM.h	/^		void setCorrespondence();$/;"	p	class:sun::CameraPoseEstimation_ShadowSM	access:public	signature:()
+sun::CameraPoseEstimation_ShadowSM::setCorrespondence	src/CameraPoseEstimation_ShadowSM.cpp	/^	void CameraPoseEstimation_ShadowSM::setCorrespondence()$/;"	f	class:sun::CameraPoseEstimation_ShadowSM	signature:()
+sun::CameraPoseEstimation_ShadowSM::~CameraPoseEstimation_ShadowSM	include/CameraPoseEstimation_ShadowSM.h	/^		~CameraPoseEstimation_ShadowSM();$/;"	p	class:sun::CameraPoseEstimation_ShadowSM	access:public	signature:()
+sun::CameraPoseEstimation_ShadowSM::~CameraPoseEstimation_ShadowSM	src/CameraPoseEstimation_ShadowSM.cpp	/^	CameraPoseEstimation_ShadowSM::~CameraPoseEstimation_ShadowSM()$/;"	f	class:sun::CameraPoseEstimation_ShadowSM	signature:()
+sun::Cell	include/PlaneExtraction.h	/^	struct Cell$/;"	s	namespace:sun
+sun::Cell::avg_pps	include/PlaneExtraction.h	/^		Eigen::Vector3d avg_pps, avg_rgb, normal;$/;"	m	struct:sun::Cell	access:public
+sun::Cell::avg_rgb	include/PlaneExtraction.h	/^		Eigen::Vector3d avg_pps, avg_rgb, normal;$/;"	m	struct:sun::Cell	access:public
+sun::Cell::cov_pps	include/PlaneExtraction.h	/^		Eigen::Matrix3d cov_pps, cov_rgb;$/;"	m	struct:sun::Cell	access:public
+sun::Cell::cov_rgb	include/PlaneExtraction.h	/^		Eigen::Matrix3d cov_pps, cov_rgb;$/;"	m	struct:sun::Cell	access:public
+sun::Cell::d	include/PlaneExtraction.h	/^		double d;$/;"	m	struct:sun::Cell	access:public
+sun::Cell::inliers	include/PlaneExtraction.h	/^		pcl::PointIndices::Ptr inliers;$/;"	m	struct:sun::Cell	access:public
+sun::Cell::isBottom	include/PlaneExtraction.h	/^		bool isBottom;$/;"	m	struct:sun::Cell	access:public
+sun::Cell::isEmpty	include/PlaneExtraction.h	/^		bool isEmpty;$/;"	m	struct:sun::Cell	access:public
+sun::Cell::normal	include/PlaneExtraction.h	/^		Eigen::Vector3d avg_pps, avg_rgb, normal;$/;"	m	struct:sun::Cell	access:public
+sun::Cell::num_points	include/PlaneExtraction.h	/^		int num_points;$/;"	m	struct:sun::Cell	access:public
+sun::Cell::points_in	include/PlaneExtraction.h	/^		std::list<Point> points_in;$/;"	m	struct:sun::Cell	access:public
+sun::Cells_bottom	include/PlaneExtraction.h	/^	struct Cells_bottom$/;"	s	namespace:sun
+sun::Cells_bottom::Cells_bottom	include/PlaneExtraction.h	/^		Cells_bottom(int theta, int phy, int d);$/;"	p	struct:sun::Cells_bottom	access:public	signature:(int theta, int phy, int d)
+sun::Cells_bottom::Cells_bottom	src/PlaneExtraction.cpp	/^	Cells_bottom::Cells_bottom(int theta, int phy, int d)$/;"	f	class:sun::Cells_bottom	signature:(int theta, int phy, int d)
+sun::Cells_bottom::ComputeCellAttribute	include/PlaneExtraction.h	/^		void ComputeCellAttribute(Eigen::Matrix3d Rotation2eigen);$/;"	p	struct:sun::Cells_bottom	access:public	signature:(Eigen::Matrix3d Rotation2eigen)
+sun::Cells_bottom::ComputeCellAttribute	src/PlaneExtraction.cpp	/^	void Cells_bottom::ComputeCellAttribute(Eigen::Matrix3d Rotation2eigen)$/;"	f	class:sun::Cells_bottom	signature:(Eigen::Matrix3d Rotation2eigen)
+sun::Cells_bottom::SortCells	include/PlaneExtraction.h	/^		void SortCells();$/;"	p	struct:sun::Cells_bottom	access:public	signature:()
+sun::Cells_bottom::SortCells	src/PlaneExtraction.cpp	/^	void Cells_bottom::SortCells()$/;"	f	class:sun::Cells_bottom	signature:()
+sun::Cells_bottom::bins_d	include/PlaneExtraction.h	/^		int bins_theta,bins_phy,bins_d;$/;"	m	struct:sun::Cells_bottom	access:public
+sun::Cells_bottom::bins_phy	include/PlaneExtraction.h	/^		int bins_theta,bins_phy,bins_d;$/;"	m	struct:sun::Cells_bottom	access:public
+sun::Cells_bottom::bins_theta	include/PlaneExtraction.h	/^		int bins_theta,bins_phy,bins_d;$/;"	m	struct:sun::Cells_bottom	access:public
+sun::Cells_bottom::cells	include/PlaneExtraction.h	/^		std::vector<Cell> cells;$/;"	m	struct:sun::Cells_bottom	access:public
+sun::Cells_bottom::delta_d	include/PlaneExtraction.h	/^		double delta_theta,delta_phy,delta_d;$/;"	m	struct:sun::Cells_bottom	access:public
+sun::Cells_bottom::delta_phy	include/PlaneExtraction.h	/^		double delta_theta,delta_phy,delta_d;$/;"	m	struct:sun::Cells_bottom	access:public
+sun::Cells_bottom::delta_theta	include/PlaneExtraction.h	/^		double delta_theta,delta_phy,delta_d;$/;"	m	struct:sun::Cells_bottom	access:public
+sun::Cells_bottom::getCell	include/PlaneExtraction.h	/^		Cell* getCell(int d, int theta, int phy) {return &cells[index(d,theta,phy)];}$/;"	f	struct:sun::Cells_bottom	access:public	signature:(int d, int theta, int phy)
+sun::Cells_bottom::index	include/PlaneExtraction.h	/^		int index(int d, int theta, int phy) {return d*bins_theta*bins_phy+theta*bins_phy+phy;}$/;"	f	struct:sun::Cells_bottom	access:public	signature:(int d, int theta, int phy)
+sun::Cells_bottom::push_point	include/PlaneExtraction.h	/^		void push_point(Point point_tmp, int inlier);$/;"	p	struct:sun::Cells_bottom	access:public	signature:(Point point_tmp, int inlier)
+sun::Cells_bottom::push_point	src/PlaneExtraction.cpp	/^	void Cells_bottom::push_point(Point point_tmp, int inlier)$/;"	f	class:sun::Cells_bottom	signature:(Point point_tmp, int inlier)
+sun::Cells_bottom::sorted_cells	include/PlaneExtraction.h	/^		std::vector<Sorted_Cell> sorted_cells;$/;"	m	struct:sun::Cells_bottom	access:public
+sun::DataReading	include/DataReading.h	/^	class DataReading$/;"	c	namespace:sun
+sun::DataReading::DataReading	include/DataReading.h	/^		DataReading(const std::string f);$/;"	p	class:sun::DataReading	access:public	signature:(const std::string f)
+sun::DataReading::DataReading	src/DataReading.cpp	/^	DataReading::DataReading(const std::string f): freiburg(f)$/;"	f	class:sun::DataReading	signature:(const std::string f)
+sun::DataReading::Height	include/DataReading.h	/^		int Width,Height;$/;"	m	class:sun::DataReading	access:private
+sun::DataReading::Initialize_freiburg	include/DataReading.h	/^		void Initialize_freiburg(double time_start = 0);$/;"	p	class:sun::DataReading	access:public	signature:(double time_start = 0)
+sun::DataReading::Initialize_freiburg	src/DataReading.cpp	/^	void DataReading::Initialize_freiburg(double time_start)$/;"	f	class:sun::DataReading	signature:(double time_start)
+sun::DataReading::LoadData_freiburg	include/DataReading.h	/^		void LoadData_freiburg();$/;"	p	class:sun::DataReading	access:public	signature:()
+sun::DataReading::LoadData_freiburg	src/DataReading.cpp	/^	void DataReading::LoadData_freiburg()$/;"	f	class:sun::DataReading	signature:()
+sun::DataReading::SampleDataset_freiburg	include/DataReading.h	/^		void SampleDataset_freiburg();$/;"	p	class:sun::DataReading	access:public	signature:()
+sun::DataReading::SampleDataset_freiburg	src/DataReading.cpp	/^	void DataReading::SampleDataset_freiburg()$/;"	f	class:sun::DataReading	signature:()
+sun::DataReading::Width	include/DataReading.h	/^		int Width,Height;$/;"	m	class:sun::DataReading	access:private
+sun::DataReading::cx	include/DataReading.h	/^		double fx,fy,cx,cy,factor;$/;"	m	class:sun::DataReading	access:private
+sun::DataReading::cy	include/DataReading.h	/^		double fx,fy,cx,cy,factor;$/;"	m	class:sun::DataReading	access:private
+sun::DataReading::debug	include/DataReading.h	/^		bool debug;$/;"	m	class:sun::DataReading	access:private
+sun::DataReading::factor	include/DataReading.h	/^		double fx,fy,cx,cy,factor;$/;"	m	class:sun::DataReading	access:private
+sun::DataReading::filename_depth	include/DataReading.h	/^		std::string filename_rgb, filename_depth; \/\/ rgb\/*.png, depth\/*.png$/;"	m	class:sun::DataReading	access:private
+sun::DataReading::filename_rgb	include/DataReading.h	/^		std::string filename_rgb, filename_depth; \/\/ rgb\/*.png, depth\/*.png$/;"	m	class:sun::DataReading	access:private
+sun::DataReading::fp_depth	include/DataReading.h	/^		std::ifstream fp_rgb,fp_depth; \/\/ rgb.txt, depth.txt$/;"	m	class:sun::DataReading	access:private
+sun::DataReading::fp_rgb	include/DataReading.h	/^		std::ifstream fp_rgb,fp_depth; \/\/ rgb.txt, depth.txt$/;"	m	class:sun::DataReading	access:private
+sun::DataReading::freiburg	include/DataReading.h	/^		const std::string freiburg; \/\/ name of the dir $/;"	m	class:sun::DataReading	access:private
+sun::DataReading::fx	include/DataReading.h	/^		double fx,fy,cx,cy,factor;$/;"	m	class:sun::DataReading	access:private
+sun::DataReading::fy	include/DataReading.h	/^		double fx,fy,cx,cy,factor;$/;"	m	class:sun::DataReading	access:private
+sun::DataReading::getNormalCloud	include/DataReading.h	/^		pcl::PointCloud<pcl::Normal>::Ptr getNormalCloud() {return normal_cloud;}$/;"	f	class:sun::DataReading	access:public	signature:()
+sun::DataReading::getPixelCloud	include/DataReading.h	/^		pcl::PointCloud<pcl::PointXY>::Ptr getPixelCloud() {return pixel_cloud;}$/;"	f	class:sun::DataReading	access:public	signature:()
+sun::DataReading::getPointCloud	include/DataReading.h	/^		pcl::PointCloud<pcl::PointXYZRGBA>::Ptr getPointCloud() {return point_cloud;}$/;"	f	class:sun::DataReading	access:public	signature:()
+sun::DataReading::normal_cloud	include/DataReading.h	/^		pcl::PointCloud<pcl::Normal>::Ptr normal_cloud;$/;"	m	class:sun::DataReading	access:private
+sun::DataReading::normal_estimate	include/DataReading.h	/^		pcl::NormalEstimation<pcl::PointXYZRGBA, pcl::Normal> normal_estimate;$/;"	m	class:sun::DataReading	access:private
+sun::DataReading::normal_estimate_integral	include/DataReading.h	/^		pcl::IntegralImageNormalEstimation<pcl::PointXYZRGBA, pcl::Normal> normal_estimate_integral;$/;"	m	class:sun::DataReading	access:private
+sun::DataReading::pixel_cloud	include/DataReading.h	/^		pcl::PointCloud<pcl::PointXY>::Ptr pixel_cloud;$/;"	m	class:sun::DataReading	access:private
+sun::DataReading::point_cloud	include/DataReading.h	/^		pcl::PointCloud<pcl::PointXYZRGBA>::Ptr point_cloud;$/;"	m	class:sun::DataReading	access:private
+sun::DataReading::print	include/DataReading.h	/^		void print() {std::cout<<freiburg<<std::endl;}$/;"	f	class:sun::DataReading	access:public	signature:()
+sun::DataReading::sample_interval	include/DataReading.h	/^		double sample_interval;$/;"	m	class:sun::DataReading	access:private
+sun::DataReading::setDebug	include/DataReading.h	/^		void setDebug(bool d) {debug=d;}$/;"	f	class:sun::DataReading	access:public	signature:(bool d)
+sun::DataReading::setNormalEstimation	include/DataReading.h	/^		void setNormalEstimation(double radius);$/;"	p	class:sun::DataReading	access:public	signature:(double radius)
+sun::DataReading::setNormalEstimation	include/DataReading.h	/^		void setNormalEstimation(int k);$/;"	p	class:sun::DataReading	access:public	signature:(int k)
+sun::DataReading::setNormalEstimation	include/DataReading.h	/^		void setNormalEstimation(pcl::IntegralImageNormalEstimation<pcl::PointXYZRGBA,$/;"	p	class:sun::DataReading	access:public	signature:(pcl::IntegralImageNormalEstimation<pcl::PointXYZRGBA, pcl::Normal>::NormalEstimationMethod method, float MaxDepthChangeFactor, float NormalSmoothingSize)
+sun::DataReading::setNormalEstimation	src/DataReading.cpp	/^	void DataReading::setNormalEstimation(double radius)$/;"	f	class:sun::DataReading	signature:(double radius)
+sun::DataReading::setNormalEstimation	src/DataReading.cpp	/^	void DataReading::setNormalEstimation(int k)$/;"	f	class:sun::DataReading	signature:(int k)
+sun::DataReading::setNormalEstimation	src/DataReading.cpp	/^	void DataReading::setNormalEstimation(pcl::IntegralImageNormalEstimation<pcl::PointXYZRGBA, $/;"	f	class:sun::DataReading	signature:(pcl::IntegralImageNormalEstimation<pcl::PointXYZRGBA, pcl::Normal>::NormalEstimationMethod method, float MaxDepthChangeFactor, float NormalSmoothingSize)
+sun::DataReading::setSampleInterval	include/DataReading.h	/^		void setSampleInterval(double delta_t) {sample_interval=delta_t;}$/;"	f	class:sun::DataReading	access:public	signature:(double delta_t)
+sun::DataReading::timestamp	include/DataReading.h	/^		double timestamp_rgb, timestamp_depth, timestamp; \/\/ timestamp: first timestamp of the dataset $/;"	m	class:sun::DataReading	access:private
+sun::DataReading::timestamp_depth	include/DataReading.h	/^		double timestamp_rgb, timestamp_depth, timestamp; \/\/ timestamp: first timestamp of the dataset $/;"	m	class:sun::DataReading	access:private
+sun::DataReading::timestamp_rgb	include/DataReading.h	/^		double timestamp_rgb, timestamp_depth, timestamp; \/\/ timestamp: first timestamp of the dataset $/;"	m	class:sun::DataReading	access:private
+sun::DataReading::~DataReading	include/DataReading.h	/^		~DataReading();$/;"	p	class:sun::DataReading	access:public	signature:()
+sun::DataReading::~DataReading	src/DataReading.cpp	/^	DataReading::~DataReading()$/;"	f	class:sun::DataReading	signature:()
+sun::EularAngles2Rotation	include/Basics.h	/^	void EularAngles2Rotation(Eigen::Vector3d &Eulars, Eigen::Matrix3d &Rotation);$/;"	p	namespace:sun	signature:(Eigen::Vector3d &Eulars, Eigen::Matrix3d &Rotation)
+sun::EularAngles2Rotation	src/Basics.cpp	/^	void EularAngles2Rotation(Eigen::Vector3d &Eulars, Eigen::Matrix3d &Rotation)$/;"	f	namespace:sun	signature:(Eigen::Vector3d &Eulars, Eigen::Matrix3d &Rotation)
+sun::InterpTree	include/PlaneMatching_Interptree.h	/^	class InterpTree$/;"	c	namespace:sun
+sun::InterpTree::Clear	include/PlaneMatching_Interptree.h	/^		void Clear();$/;"	p	class:sun::InterpTree	access:public	signature:()
+sun::InterpTree::Clear	src/PlaneMatching_Interptree.cpp	/^	void InterpTree::Clear()$/;"	f	class:sun::InterpTree	signature:()
+sun::InterpTree::Construct	include/PlaneMatching_Interptree.h	/^		bool Construct(std::vector<Plane*> &planes_ref_,std::vector<Plane*> &planes_cur_);$/;"	p	class:sun::InterpTree	access:public	signature:(std::vector<Plane*> &planes_ref_,std::vector<Plane*> &planes_cur_)
+sun::InterpTree::Construct	src/PlaneMatching_Interptree.cpp	/^	bool InterpTree::Construct(std::vector<Plane*> &planes_ref_,std::vector<Plane*> &planes_cur_)$/;"	f	class:sun::InterpTree	signature:(std::vector<Plane*> &planes_ref_,std::vector<Plane*> &planes_cur_)
+sun::InterpTree::InterpTree	include/PlaneMatching_Interptree.h	/^		InterpTree();$/;"	p	class:sun::InterpTree	access:public	signature:()
+sun::InterpTree::InterpTree	src/PlaneMatching_Interptree.cpp	/^	InterpTree::InterpTree()$/;"	f	class:sun::InterpTree	signature:()
+sun::InterpTree::consistent_1	include/PlaneMatching_Interptree.h	/^		bool consistent_1(Node_InterpTree *node);$/;"	p	class:sun::InterpTree	access:private	signature:(Node_InterpTree *node)
+sun::InterpTree::consistent_1	src/PlaneMatching_Interptree.cpp	/^	bool InterpTree::consistent_1(Node_InterpTree *node)$/;"	f	class:sun::InterpTree	signature:(Node_InterpTree *node)
+sun::InterpTree::consistent_2	include/PlaneMatching_Interptree.h	/^		bool consistent_2(Node_InterpTree *node1, Node_InterpTree *node2);$/;"	p	class:sun::InterpTree	access:private	signature:(Node_InterpTree *node1, Node_InterpTree *node2)
+sun::InterpTree::consistent_2	src/PlaneMatching_Interptree.cpp	/^	bool InterpTree::consistent_2(Node_InterpTree *node1, Node_InterpTree *node2)$/;"	f	class:sun::InterpTree	signature:(Node_InterpTree *node1, Node_InterpTree *node2)
+sun::InterpTree::consistent_3	include/PlaneMatching_Interptree.h	/^		bool consistent_3(Node_InterpTree *node1, Node_InterpTree *node2, Node_InterpTree *node3);$/;"	p	class:sun::InterpTree	access:private	signature:(Node_InterpTree *node1, Node_InterpTree *node2, Node_InterpTree *node3)
+sun::InterpTree::consistent_3	src/PlaneMatching_Interptree.cpp	/^	bool InterpTree::consistent_3(Node_InterpTree *node1, Node_InterpTree *node2, Node_InterpTree *node3)$/;"	f	class:sun::InterpTree	signature:(Node_InterpTree *node1, Node_InterpTree *node2, Node_InterpTree *node3)
+sun::InterpTree::debug	include/PlaneMatching_Interptree.h	/^		bool debug;$/;"	m	class:sun::InterpTree	access:private
+sun::InterpTree::getMaxInterp	include/PlaneMatching_Interptree.h	/^		Node_InterpTree* getMaxInterp() {return leaf_max_interp;}$/;"	f	class:sun::InterpTree	access:public	signature:()
+sun::InterpTree::getNodeNum	include/PlaneMatching_Interptree.h	/^		int getNodeNum() {return nodes.size();}$/;"	f	class:sun::InterpTree	access:public	signature:()
+sun::InterpTree::getRoot	include/PlaneMatching_Interptree.h	/^		Node_InterpTree* getRoot() {return root;}$/;"	f	class:sun::InterpTree	access:public	signature:()
+sun::InterpTree::isLeaf	include/PlaneMatching_Interptree.h	/^		bool isLeaf(Node_InterpTree *node);$/;"	p	class:sun::InterpTree	access:private	signature:(Node_InterpTree *node)
+sun::InterpTree::isLeaf	src/PlaneMatching_Interptree.cpp	/^	bool InterpTree::isLeaf(Node_InterpTree *node)$/;"	f	class:sun::InterpTree	signature:(Node_InterpTree *node)
+sun::InterpTree::leaf_max_interp	include/PlaneMatching_Interptree.h	/^		Node_InterpTree *leaf_max_interp;$/;"	m	class:sun::InterpTree	access:private
+sun::InterpTree::nodes	include/PlaneMatching_Interptree.h	/^		std::vector<Node_InterpTree*> nodes;$/;"	m	class:sun::InterpTree	access:private
+sun::InterpTree::root	include/PlaneMatching_Interptree.h	/^		Node_InterpTree *root;$/;"	m	class:sun::InterpTree	access:private
+sun::InterpTree::setDebug	include/PlaneMatching_Interptree.h	/^		void setDebug(bool d) {debug=d;}$/;"	f	class:sun::InterpTree	access:public	signature:(bool d)
+sun::InterpTree::thres_color	include/PlaneMatching_Interptree.h	/^		double thres_color; \/\/ thres for consistent_1$/;"	m	class:sun::InterpTree	access:private
+sun::InterpTree::thres_delta_angle	include/PlaneMatching_Interptree.h	/^		double thres_delta_angle; \/\/ (consistent_2) if delta_normal_angle<thres then the planes are parallel$/;"	m	class:sun::InterpTree	access:private
+sun::InterpTree::thres_delta_d	include/PlaneMatching_Interptree.h	/^		double thres_delta_d; \/\/ (consistent_2) if delta_d<thres then the plane pairs are coincident$/;"	m	class:sun::InterpTree	access:private
+sun::InterpTree::~InterpTree	include/PlaneMatching_Interptree.h	/^		~InterpTree();$/;"	p	class:sun::InterpTree	access:public	signature:()
+sun::InterpTree::~InterpTree	src/PlaneMatching_Interptree.cpp	/^	InterpTree::~InterpTree()$/;"	f	class:sun::InterpTree	signature:()
+sun::MapIncremental	include/MapIncremental.h	/^	class MapIncremental$/;"	c	namespace:sun
+sun::MapIncremental::MapIncremental	include/MapIncremental.h	/^		MapIncremental();$/;"	p	class:sun::MapIncremental	access:public	signature:()
+sun::MapIncremental::MapIncremental	src/MapIncremental.cpp	/^	MapIncremental::MapIncremental()$/;"	f	class:sun::MapIncremental	signature:()
+sun::MapIncremental::addScan	include/MapIncremental.h	/^		void addScan(pcl::PointCloud<pcl::PointXYZRGBA>::Ptr point_cloud, CameraPose Rt);$/;"	p	class:sun::MapIncremental	access:public	signature:(pcl::PointCloud<pcl::PointXYZRGBA>::Ptr point_cloud, CameraPose Rt)
+sun::MapIncremental::addScan	src/MapIncremental.cpp	/^	void MapIncremental::addScan(pcl::PointCloud<pcl::PointXYZRGBA>::Ptr point_cloud, CameraPose Rt)$/;"	f	class:sun::MapIncremental	signature:(pcl::PointCloud<pcl::PointXYZRGBA>::Ptr point_cloud, CameraPose Rt)
+sun::MapIncremental::scans	include/MapIncremental.h	/^		std::vector<Scan> scans;$/;"	m	class:sun::MapIncremental	access:private
+sun::MapIncremental::showScans	include/MapIncremental.h	/^		void showScans();$/;"	p	class:sun::MapIncremental	access:public	signature:()
+sun::MapIncremental::showScans	src/MapIncremental.cpp	/^	void MapIncremental::showScans()$/;"	f	class:sun::MapIncremental	signature:()
+sun::MapIncremental::~MapIncremental	include/MapIncremental.h	/^		~MapIncremental();$/;"	p	class:sun::MapIncremental	access:public	signature:()
+sun::MapIncremental::~MapIncremental	src/MapIncremental.cpp	/^	MapIncremental::~MapIncremental()$/;"	f	class:sun::MapIncremental	signature:()
+sun::Node_InterpTree	include/PlaneMatching_Interptree.h	/^	struct Node_InterpTree$/;"	s	namespace:sun
+sun::Node_InterpTree::Node_InterpTree	include/PlaneMatching_Interptree.h	/^		Node_InterpTree();$/;"	p	struct:sun::Node_InterpTree	access:public	signature:()
+sun::Node_InterpTree::Node_InterpTree	include/PlaneMatching_Interptree.h	/^		Node_InterpTree(Plane *plane_ref_, Plane *plane_cur_);$/;"	p	struct:sun::Node_InterpTree	access:public	signature:(Plane *plane_ref_, Plane *plane_cur_)
+sun::Node_InterpTree::Node_InterpTree	src/PlaneMatching_Interptree.cpp	/^	Node_InterpTree::Node_InterpTree()$/;"	f	class:sun::Node_InterpTree	signature:()
+sun::Node_InterpTree::Node_InterpTree	src/PlaneMatching_Interptree.cpp	/^	Node_InterpTree::Node_InterpTree(Plane *plane_ref_, Plane *plane_cur_)$/;"	f	class:sun::Node_InterpTree	signature:(Plane *plane_ref_, Plane *plane_cur_)
+sun::Node_InterpTree::children	include/PlaneMatching_Interptree.h	/^		std::vector<Node_InterpTree*> children;$/;"	m	struct:sun::Node_InterpTree	access:public
+sun::Node_InterpTree::insertChild	include/PlaneMatching_Interptree.h	/^		void insertChild(Node_InterpTree*);$/;"	p	struct:sun::Node_InterpTree	access:public	signature:(Node_InterpTree*)
+sun::Node_InterpTree::insertChild	src/PlaneMatching_Interptree.cpp	/^	void Node_InterpTree::insertChild(Node_InterpTree *node)$/;"	f	class:sun::Node_InterpTree	signature:(Node_InterpTree *node)
+sun::Node_InterpTree::layer	include/PlaneMatching_Interptree.h	/^		int layer;$/;"	m	struct:sun::Node_InterpTree	access:public
+sun::Node_InterpTree::parent	include/PlaneMatching_Interptree.h	/^		Node_InterpTree *parent;$/;"	m	struct:sun::Node_InterpTree	access:public
+sun::Node_InterpTree::plane_cur	include/PlaneMatching_Interptree.h	/^		Plane *plane_ref,*plane_cur;$/;"	m	struct:sun::Node_InterpTree	access:public
+sun::Node_InterpTree::plane_ref	include/PlaneMatching_Interptree.h	/^		Plane *plane_ref,*plane_cur;$/;"	m	struct:sun::Node_InterpTree	access:public
+sun::Node_InterpTree::setParent	include/PlaneMatching_Interptree.h	/^		void setParent(Node_InterpTree*);$/;"	p	struct:sun::Node_InterpTree	access:public	signature:(Node_InterpTree*)
+sun::Node_InterpTree::setParent	src/PlaneMatching_Interptree.cpp	/^	void Node_InterpTree::setParent(Node_InterpTree *node)$/;"	f	class:sun::Node_InterpTree	signature:(Node_InterpTree *node)
+sun::Pixel	include/Basics.h	/^	struct Pixel$/;"	s	namespace:sun
+sun::Pixel::operator <	include/Basics.h	/^		bool operator < (const Pixel &x) const$/;"	f	struct:sun::Pixel	access:public	signature:(const Pixel &x) const
+sun::Pixel::step	include/Basics.h	/^		int step;$/;"	m	struct:sun::Pixel	access:public
+sun::Pixel::u	include/Basics.h	/^		int u,v;$/;"	m	struct:sun::Pixel	access:public
+sun::Pixel::v	include/Basics.h	/^		int u,v;$/;"	m	struct:sun::Pixel	access:public
+sun::Pixel_pps	include/Basics.h	/^	struct Pixel_pps$/;"	s	namespace:sun
+sun::Pixel_pps::d	include/Basics.h	/^		int theta,phy,d,layer;$/;"	m	struct:sun::Pixel_pps	access:public
+sun::Pixel_pps::layer	include/Basics.h	/^		int theta,phy,d,layer;$/;"	m	struct:sun::Pixel_pps	access:public
+sun::Pixel_pps::operator <	include/Basics.h	/^		bool operator < (const Pixel_pps &x) const$/;"	f	struct:sun::Pixel_pps	access:public	signature:(const Pixel_pps &x) const
+sun::Pixel_pps::phy	include/Basics.h	/^		int theta,phy,d,layer;$/;"	m	struct:sun::Pixel_pps	access:public
+sun::Pixel_pps::step_phy	include/Basics.h	/^		int step_theta,step_phy;$/;"	m	struct:sun::Pixel_pps	access:public
+sun::Pixel_pps::step_theta	include/Basics.h	/^		int step_theta,step_phy;$/;"	m	struct:sun::Pixel_pps	access:public
+sun::Pixel_pps::theta	include/Basics.h	/^		int theta,phy,d,layer;$/;"	m	struct:sun::Pixel_pps	access:public
+sun::Plane	include/Basics.h	/^	struct Plane$/;"	s	namespace:sun
+sun::Plane::avg_pps	include/Basics.h	/^		Eigen::Vector3d normal, pps, rgb, avg_pps, avg_rgb;$/;"	m	struct:sun::Plane	access:public
+sun::Plane::avg_rgb	include/Basics.h	/^		Eigen::Vector3d normal, pps, rgb, avg_pps, avg_rgb;$/;"	m	struct:sun::Plane	access:public
+sun::Plane::cov_pps	include/Basics.h	/^		Eigen::Matrix3d cov_pps, cov_rgb;$/;"	m	struct:sun::Plane	access:public
+sun::Plane::cov_rgb	include/Basics.h	/^		Eigen::Matrix3d cov_pps, cov_rgb;$/;"	m	struct:sun::Plane	access:public
+sun::Plane::d	include/Basics.h	/^		double d;$/;"	m	struct:sun::Plane	access:public
+sun::Plane::index	include/Basics.h	/^		int index;$/;"	m	struct:sun::Plane	access:public
+sun::Plane::normal	include/Basics.h	/^		Eigen::Vector3d normal, pps, rgb, avg_pps, avg_rgb;$/;"	m	struct:sun::Plane	access:public
+sun::Plane::num_points	include/Basics.h	/^		int num_points;$/;"	m	struct:sun::Plane	access:public
+sun::Plane::points_edge	include/Basics.h	/^		std::list<Point*> points_edge; \/\/ point to the points in points_in;$/;"	m	struct:sun::Plane	access:public
+sun::Plane::points_in	include/Basics.h	/^		std::list<Point> points_in;$/;"	m	struct:sun::Plane	access:public
+sun::Plane::pps	include/Basics.h	/^		Eigen::Vector3d normal, pps, rgb, avg_pps, avg_rgb;$/;"	m	struct:sun::Plane	access:public
+sun::Plane::rgb	include/Basics.h	/^		Eigen::Vector3d normal, pps, rgb, avg_pps, avg_rgb;$/;"	m	struct:sun::Plane	access:public
+sun::PlaneExtraction	include/PlaneExtraction.h	/^	class PlaneExtraction$/;"	c	namespace:sun
+sun::PlaneExtraction::Clear	include/PlaneExtraction.h	/^		void Clear();$/;"	p	class:sun::PlaneExtraction	access:public	signature:()
+sun::PlaneExtraction::ExtractPlanes	include/PlaneExtraction.h	/^		virtual void ExtractPlanes()=0;$/;"	p	class:sun::PlaneExtraction	access:public	signature:()
+sun::PlaneExtraction::GetPlane	include/PlaneExtraction.h	/^		Plane* GetPlane(int i) {return planes[i];}$/;"	f	class:sun::PlaneExtraction	access:public	signature:(int i)
+sun::PlaneExtraction::GetPlaneNum	include/PlaneExtraction.h	/^		int GetPlaneNum(void) {return planes.size();}$/;"	f	class:sun::PlaneExtraction	access:public	signature:(void)
+sun::PlaneExtraction::GetPoint	include/PlaneExtraction.h	/^		Point GetPoint(int i) {return points[i];}$/;"	f	class:sun::PlaneExtraction	access:public	signature:(int i)
+sun::PlaneExtraction::GetPointsNum	include/PlaneExtraction.h	/^		int GetPointsNum(void) {return points.size();}$/;"	f	class:sun::PlaneExtraction	access:public	signature:(void)
+sun::PlaneExtraction::LoadPoints	include/PlaneExtraction.h	/^		virtual bool LoadPoints();$/;"	p	class:sun::PlaneExtraction	access:public	signature:()
+sun::PlaneExtraction::LoadPoints	src/PlaneExtraction.cpp	/^	bool PlaneExtraction::LoadPoints()$/;"	f	class:sun::PlaneExtraction	signature:()
+sun::PlaneExtraction::PlaneExtraction	include/PlaneExtraction.h	/^		PlaneExtraction(): bins_theta(10), bins_phy(20), bins_d(1) {}$/;"	f	class:sun::PlaneExtraction	access:public	signature:()
+sun::PlaneExtraction::PlaneExtraction	include/PlaneExtraction.h	/^		PlaneExtraction(int theta, int phy, int d): bins_theta(theta), bins_phy(phy), bins_d(d) {}$/;"	f	class:sun::PlaneExtraction	access:public	signature:(int theta, int phy, int d)
+sun::PlaneExtraction::Rotation2eigen	include/PlaneExtraction.h	/^		Eigen::Matrix3d Rotation2eigen;$/;"	m	class:sun::PlaneExtraction	access:protected
+sun::PlaneExtraction::bins_d	include/PlaneExtraction.h	/^		int bins_theta,bins_phy,bins_d;$/;"	m	class:sun::PlaneExtraction	access:protected
+sun::PlaneExtraction::bins_phy	include/PlaneExtraction.h	/^		int bins_theta,bins_phy,bins_d;$/;"	m	class:sun::PlaneExtraction	access:protected
+sun::PlaneExtraction::bins_theta	include/PlaneExtraction.h	/^		int bins_theta,bins_phy,bins_d;$/;"	m	class:sun::PlaneExtraction	access:protected
+sun::PlaneExtraction::cells_bottom	include/PlaneExtraction.h	/^		Cells_bottom *cells_bottom;$/;"	m	class:sun::PlaneExtraction	access:protected
+sun::PlaneExtraction::computePlaneParas	include/PlaneExtraction.h	/^		void computePlaneParas(Plane *plane);$/;"	p	class:sun::PlaneExtraction	access:protected	signature:(Plane *plane)
+sun::PlaneExtraction::computePlaneParas	src/PlaneExtraction.cpp	/^	void PlaneExtraction::computePlaneParas(Plane *plane)$/;"	f	class:sun::PlaneExtraction	signature:(Plane *plane)
+sun::PlaneExtraction::debug	include/PlaneExtraction.h	/^		bool debug;$/;"	m	class:sun::PlaneExtraction	access:protected
+sun::PlaneExtraction::loadNormalCloud	include/PlaneExtraction.h	/^		void loadNormalCloud(pcl::PointCloud<pcl::Normal>::Ptr nc) {normal_cloud=nc;}$/;"	f	class:sun::PlaneExtraction	access:public	signature:(pcl::PointCloud<pcl::Normal>::Ptr nc)
+sun::PlaneExtraction::loadPixelCloud	include/PlaneExtraction.h	/^		void loadPixelCloud(pcl::PointCloud<pcl::PointXY>::Ptr pc) {pixel_cloud=pc;}$/;"	f	class:sun::PlaneExtraction	access:public	signature:(pcl::PointCloud<pcl::PointXY>::Ptr pc)
+sun::PlaneExtraction::loadPointCloud	include/PlaneExtraction.h	/^		void loadPointCloud(pcl::PointCloud<pcl::PointXYZRGBA>::Ptr pc) {point_cloud=pc;}$/;"	f	class:sun::PlaneExtraction	access:public	signature:(pcl::PointCloud<pcl::PointXYZRGBA>::Ptr pc)
+sun::PlaneExtraction::normal2pps	include/PlaneExtraction.h	/^		Eigen::Vector3d normal2pps(Eigen::Vector3d normal, Eigen::Vector3d point);$/;"	p	class:sun::PlaneExtraction	access:protected	signature:(Eigen::Vector3d normal, Eigen::Vector3d point)
+sun::PlaneExtraction::normal2pps	src/PlaneExtraction.cpp	/^	Eigen::Vector3d PlaneExtraction::normal2pps(Eigen::Vector3d normal, Eigen::Vector3d point)$/;"	f	class:sun::PlaneExtraction	signature:(Eigen::Vector3d normal, Eigen::Vector3d point)
+sun::PlaneExtraction::normal_cloud	include/PlaneExtraction.h	/^		pcl::PointCloud<pcl::Normal>::Ptr normal_cloud;$/;"	m	class:sun::PlaneExtraction	access:protected
+sun::PlaneExtraction::pixel_cloud	include/PlaneExtraction.h	/^		pcl::PointCloud<pcl::PointXY>::Ptr pixel_cloud;$/;"	m	class:sun::PlaneExtraction	access:protected
+sun::PlaneExtraction::planes	include/PlaneExtraction.h	/^		std::vector<Plane*> planes;$/;"	m	class:sun::PlaneExtraction	access:protected
+sun::PlaneExtraction::point_cloud	include/PlaneExtraction.h	/^		pcl::PointCloud<pcl::PointXYZRGBA>::Ptr point_cloud;$/;"	m	class:sun::PlaneExtraction	access:protected
+sun::PlaneExtraction::points	include/PlaneExtraction.h	/^		std::vector<Point> points;$/;"	m	class:sun::PlaneExtraction	access:protected
+sun::PlaneExtraction::pps2normal	include/PlaneExtraction.h	/^		Eigen::Vector3d pps2normal(Eigen::Vector3d pps);$/;"	p	class:sun::PlaneExtraction	access:protected	signature:(Eigen::Vector3d pps)
+sun::PlaneExtraction::pps2normal	src/PlaneExtraction.cpp	/^	Eigen::Vector3d PlaneExtraction::pps2normal(Eigen::Vector3d pps)$/;"	f	class:sun::PlaneExtraction	signature:(Eigen::Vector3d pps)
+sun::PlaneExtraction::setDebug	include/PlaneExtraction.h	/^		void setDebug(bool d) {debug=d;}$/;"	f	class:sun::PlaneExtraction	access:public	signature:(bool d)
+sun::PlaneExtraction::~PlaneExtraction	include/PlaneExtraction.h	/^		~PlaneExtraction();$/;"	p	class:sun::PlaneExtraction	access:public	signature:()
+sun::PlaneExtraction::~PlaneExtraction	src/PlaneExtraction.cpp	/^	PlaneExtraction::~PlaneExtraction()$/;"	f	class:sun::PlaneExtraction	signature:()
+sun::PlaneExtraction_RANSAC	include/PlaneExtraction_RANSAC.h	/^	class PlaneExtraction_RANSAC : public PlaneExtraction$/;"	c	namespace:sun	inherits:PlaneExtraction
+sun::PlaneExtraction_RANSAC::ExtractPlanes	include/PlaneExtraction_RANSAC.h	/^		virtual void ExtractPlanes();$/;"	p	class:sun::PlaneExtraction_RANSAC	access:public	signature:()
+sun::PlaneExtraction_RANSAC::ExtractPlanes	src/PlaneExtraction_RANSAC.cpp	/^	void PlaneExtraction_RANSAC::ExtractPlanes()$/;"	f	class:sun::PlaneExtraction_RANSAC	signature:()
+sun::PlaneExtraction_RANSAC::PlaneExtraction_RANSAC	include/PlaneExtraction_RANSAC.h	/^		PlaneExtraction_RANSAC();$/;"	p	class:sun::PlaneExtraction_RANSAC	access:public	signature:()
+sun::PlaneExtraction_RANSAC::PlaneExtraction_RANSAC	src/PlaneExtraction_RANSAC.cpp	/^	PlaneExtraction_RANSAC::PlaneExtraction_RANSAC()$/;"	f	class:sun::PlaneExtraction_RANSAC	signature:()
+sun::PlaneExtraction_RANSAC::computePlaneAvgCov	include/PlaneExtraction_RANSAC.h	/^		void computePlaneAvgCov(Plane *plane);$/;"	p	class:sun::PlaneExtraction_RANSAC	access:private	signature:(Plane *plane)
+sun::PlaneExtraction_RANSAC::computePlaneAvgCov	src/PlaneExtraction_RANSAC.cpp	/^	void PlaneExtraction_RANSAC::computePlaneAvgCov(Plane *plane)$/;"	f	class:sun::PlaneExtraction_RANSAC	signature:(Plane *plane)
+sun::PlaneExtraction_RANSAC::dist_point2plane	include/PlaneExtraction_RANSAC.h	/^		double dist_point2plane(Eigen::Vector3d point, pcl::ModelCoefficients::Ptr plane);$/;"	p	class:sun::PlaneExtraction_RANSAC	access:private	signature:(Eigen::Vector3d point, pcl::ModelCoefficients::Ptr plane)
+sun::PlaneExtraction_RANSAC::dist_point2plane	src/PlaneExtraction_RANSAC.cpp	/^	double PlaneExtraction_RANSAC::dist_point2plane(Eigen::Vector3d point, pcl::ModelCoefficients::Ptr plane)$/;"	f	class:sun::PlaneExtraction_RANSAC	signature:(Eigen::Vector3d point, pcl::ModelCoefficients::Ptr plane)
+sun::PlaneExtraction_RANSAC::fusePlanes	include/PlaneExtraction_RANSAC.h	/^		void fusePlanes(int i_plane, Plane *cur);$/;"	p	class:sun::PlaneExtraction_RANSAC	access:private	signature:(int i_plane, Plane *cur)
+sun::PlaneExtraction_RANSAC::fusePlanes	src/PlaneExtraction_RANSAC.cpp	/^	void PlaneExtraction_RANSAC::fusePlanes(int i_plane, Plane *tmp_plane)$/;"	f	class:sun::PlaneExtraction_RANSAC	signature:(int i_plane, Plane *tmp_plane)
+sun::PlaneExtraction_RANSAC::max_plane	include/PlaneExtraction_RANSAC.h	/^		int max_plane;$/;"	m	class:sun::PlaneExtraction_RANSAC	access:private
+sun::PlaneExtraction_RANSAC::maxdist_point2plane	include/PlaneExtraction_RANSAC.h	/^		double maxdist_point2plane;$/;"	m	class:sun::PlaneExtraction_RANSAC	access:private
+sun::PlaneExtraction_RANSAC::min_plane_size	include/PlaneExtraction_RANSAC.h	/^		int min_plane_size;$/;"	m	class:sun::PlaneExtraction_RANSAC	access:private
+sun::PlaneExtraction_RANSAC::seeGrid	include/PlaneExtraction_RANSAC.h	/^		void seeGrid();$/;"	p	class:sun::PlaneExtraction_RANSAC	access:public	signature:()
+sun::PlaneExtraction_RANSAC::seeGrid	src/PlaneExtraction_RANSAC.cpp	/^	void PlaneExtraction_RANSAC::seeGrid()$/;"	f	class:sun::PlaneExtraction_RANSAC	signature:()
+sun::PlaneExtraction_RANSAC::thres_angle	include/PlaneExtraction_RANSAC.h	/^		double thres_angle, thres_dist, thres_color;$/;"	m	class:sun::PlaneExtraction_RANSAC	access:private
+sun::PlaneExtraction_RANSAC::thres_color	include/PlaneExtraction_RANSAC.h	/^		double thres_angle, thres_dist, thres_color;$/;"	m	class:sun::PlaneExtraction_RANSAC	access:private
+sun::PlaneExtraction_RANSAC::thres_dist	include/PlaneExtraction_RANSAC.h	/^		double thres_angle, thres_dist, thres_color;$/;"	m	class:sun::PlaneExtraction_RANSAC	access:private
+sun::PlaneExtraction_RANSAC::unifyPlaneDir	include/PlaneExtraction_RANSAC.h	/^		void unifyPlaneDir(pcl::ModelCoefficients::Ptr plane);$/;"	p	class:sun::PlaneExtraction_RANSAC	access:private	signature:(pcl::ModelCoefficients::Ptr plane)
+sun::PlaneExtraction_RANSAC::unifyPlaneDir	src/PlaneExtraction_RANSAC.cpp	/^	void PlaneExtraction_RANSAC::unifyPlaneDir(pcl::ModelCoefficients::Ptr plane)$/;"	f	class:sun::PlaneExtraction_RANSAC	signature:(pcl::ModelCoefficients::Ptr plane)
+sun::PlaneExtraction_RANSAC::~PlaneExtraction_RANSAC	include/PlaneExtraction_RANSAC.h	/^		~PlaneExtraction_RANSAC();$/;"	p	class:sun::PlaneExtraction_RANSAC	access:public	signature:()
+sun::PlaneExtraction_RANSAC::~PlaneExtraction_RANSAC	src/PlaneExtraction_RANSAC.cpp	/^	PlaneExtraction_RANSAC::~PlaneExtraction_RANSAC()$/;"	f	class:sun::PlaneExtraction_RANSAC	signature:()
+sun::PlaneFilter	include/PlaneFilter.h	/^	class PlaneFilter$/;"	c	namespace:sun
+sun::PlaneFilter::CenterWeight	include/PlaneFilter.h	/^		double CenterWeight(Pixel index);$/;"	p	class:sun::PlaneFilter	access:private	signature:(Pixel index)
+sun::PlaneFilter::CenterWeight	src/PlaneFilter.cpp	/^	double PlaneFilter::CenterWeight(Pixel index)$/;"	f	class:sun::PlaneFilter	signature:(Pixel index)
+sun::PlaneFilter::ColorFilter	include/PlaneFilter.h	/^		void ColorFilter();$/;"	p	class:sun::PlaneFilter	access:public	signature:()
+sun::PlaneFilter::ColorFilter	src/PlaneFilter.cpp	/^	void PlaneFilter::ColorFilter()$/;"	f	class:sun::PlaneFilter	signature:()
+sun::PlaneFilter::ColorResponse	include/PlaneFilter.h	/^		double ColorResponse(Pixel index, Eigen::MatrixXd temp_color);$/;"	p	class:sun::PlaneFilter	access:private	signature:(Pixel index, Eigen::MatrixXd temp_color)
+sun::PlaneFilter::ColorResponse	src/PlaneFilter.cpp	/^	double PlaneFilter::ColorResponse(Pixel index, Eigen::MatrixXd temp_color)$/;"	f	class:sun::PlaneFilter	signature:(Pixel index, Eigen::MatrixXd temp_color)
+sun::PlaneFilter::DensityFilter	include/PlaneFilter.h	/^		void DensityFilter();$/;"	p	class:sun::PlaneFilter	access:public	signature:()
+sun::PlaneFilter::DensityFilter	src/PlaneFilter.cpp	/^	void PlaneFilter::DensityFilter()$/;"	f	class:sun::PlaneFilter	signature:()
+sun::PlaneFilter::DensityResponse	include/PlaneFilter.h	/^		double DensityResponse(Pixel index, Eigen::MatrixXd temp_density);$/;"	p	class:sun::PlaneFilter	access:private	signature:(Pixel index, Eigen::MatrixXd temp_density)
+sun::PlaneFilter::DensityResponse	src/PlaneFilter.cpp	/^	double PlaneFilter::DensityResponse(Pixel index, Eigen::MatrixXd temp_density)$/;"	f	class:sun::PlaneFilter	signature:(Pixel index, Eigen::MatrixXd temp_density)
+sun::PlaneFilter::DepthWeight	include/PlaneFilter.h	/^		double DepthWeight(Pixel index);$/;"	p	class:sun::PlaneFilter	access:private	signature:(Pixel index)
+sun::PlaneFilter::DepthWeight	src/PlaneFilter.cpp	/^	double PlaneFilter::DepthWeight(Pixel index)$/;"	f	class:sun::PlaneFilter	signature:(Pixel index)
+sun::PlaneFilter::EdgeFilter	include/PlaneFilter.h	/^		void EdgeFilter();$/;"	p	class:sun::PlaneFilter	access:public	signature:()
+sun::PlaneFilter::EdgeFilter	src/PlaneFilter.cpp	/^	void PlaneFilter::EdgeFilter()$/;"	f	class:sun::PlaneFilter	signature:()
+sun::PlaneFilter::EdgeResponse	include/PlaneFilter.h	/^		double EdgeResponse(Pixel index, Eigen::MatrixXd temp_edge);$/;"	p	class:sun::PlaneFilter	access:private	signature:(Pixel index, Eigen::MatrixXd temp_edge)
+sun::PlaneFilter::EdgeResponse	src/PlaneFilter.cpp	/^	double PlaneFilter::EdgeResponse(Pixel index, Eigen::MatrixXd temp_edge)$/;"	f	class:sun::PlaneFilter	signature:(Pixel index, Eigen::MatrixXd temp_edge)
+sun::PlaneFilter::PlaneFilter	include/PlaneFilter.h	/^		PlaneFilter();$/;"	p	class:sun::PlaneFilter	access:public	signature:()
+sun::PlaneFilter::PlaneFilter	src/PlaneFilter.cpp	/^	PlaneFilter::PlaneFilter()$/;"	f	class:sun::PlaneFilter	signature:()
+sun::PlaneFilter::color2grey	include/PlaneFilter.h	/^		void color2grey();$/;"	p	class:sun::PlaneFilter	access:private	signature:()
+sun::PlaneFilter::color2grey	src/PlaneFilter.cpp	/^	void PlaneFilter::color2grey()$/;"	f	class:sun::PlaneFilter	signature:()
+sun::PlaneFilter::color_response	include/PlaneFilter.h	/^		std::map<Pixel,double> color_response;$/;"	m	class:sun::PlaneFilter	access:private
+sun::PlaneFilter::cx	include/PlaneFilter.h	/^		double cx,cy;$/;"	m	class:sun::PlaneFilter	access:private
+sun::PlaneFilter::cy	include/PlaneFilter.h	/^		double cx,cy;$/;"	m	class:sun::PlaneFilter	access:private
+sun::PlaneFilter::debug	include/PlaneFilter.h	/^		bool debug;$/;"	m	class:sun::PlaneFilter	access:private
+sun::PlaneFilter::density_response	include/PlaneFilter.h	/^		std::map<Pixel,double> density_response;$/;"	m	class:sun::PlaneFilter	access:private
+sun::PlaneFilter::edge_response	include/PlaneFilter.h	/^		std::map<Pixel,double> edge_response;$/;"	m	class:sun::PlaneFilter	access:private
+sun::PlaneFilter::filter	include/PlaneFilter.h	/^		void filter(Plane *plane);$/;"	p	class:sun::PlaneFilter	access:public	signature:(Plane *plane)
+sun::PlaneFilter::filter	src/PlaneFilter.cpp	/^	void PlaneFilter::filter(Plane *plane)$/;"	f	class:sun::PlaneFilter	signature:(Plane *plane)
+sun::PlaneFilter::grey	include/PlaneFilter.h	/^		std::map<Pixel,double> grey;$/;"	m	class:sun::PlaneFilter	access:private
+sun::PlaneFilter::index_map	include/PlaneFilter.h	/^		std::map<Pixel,Point*> index_map;$/;"	m	class:sun::PlaneFilter	access:private
+sun::PlaneFilter::loadPlane	include/PlaneFilter.h	/^		void loadPlane(Plane *plane);$/;"	p	class:sun::PlaneFilter	access:private	signature:(Plane *plane)
+sun::PlaneFilter::loadPlane	src/PlaneFilter.cpp	/^	void PlaneFilter::loadPlane(Plane *plane)$/;"	f	class:sun::PlaneFilter	signature:(Plane *plane)
+sun::PlaneFilter::rotation_plane2camera	include/PlaneFilter.h	/^		Eigen::Matrix3d rotation_plane2camera(Eigen::Vector3d n);$/;"	p	class:sun::PlaneFilter	access:private	signature:(Eigen::Vector3d n)
+sun::PlaneFilter::rotation_plane2camera	src/PlaneFilter.cpp	/^	Eigen::Matrix3d PlaneFilter::rotation_plane2camera(Eigen::Vector3d n)$/;"	f	class:sun::PlaneFilter	signature:(Eigen::Vector3d n)
+sun::PlaneFilter::setDebug	include/PlaneFilter.h	/^		void setDebug(bool d) {debug=d;}$/;"	f	class:sun::PlaneFilter	access:public	signature:(bool d)
+sun::PlaneFilter::temp_color	include/PlaneFilter.h	/^		Eigen::Matrix3d temp_color;$/;"	m	class:sun::PlaneFilter	access:private
+sun::PlaneFilter::temp_density	include/PlaneFilter.h	/^		Eigen::Matrix3d temp_density;$/;"	m	class:sun::PlaneFilter	access:private
+sun::PlaneFilter::temp_edge	include/PlaneFilter.h	/^		Eigen::Matrix3d temp_edge;$/;"	m	class:sun::PlaneFilter	access:private
+sun::PlaneFilter::~PlaneFilter	include/PlaneFilter.h	/^		~PlaneFilter();$/;"	p	class:sun::PlaneFilter	access:public	signature:()
+sun::PlaneFilter::~PlaneFilter	src/PlaneFilter.cpp	/^	PlaneFilter::~PlaneFilter()$/;"	f	class:sun::PlaneFilter	signature:()
+sun::PlaneMatching	include/PlaneMatching.h	/^	class PlaneMatching$/;"	c	namespace:sun
+sun::PlaneMatching::Match	include/PlaneMatching.h	/^		virtual void Match(std::vector<PlanePair> &matched_planes)=0;$/;"	p	class:sun::PlaneMatching	access:public	signature:(std::vector<PlanePair> &matched_planes)
+sun::PlaneMatching::PlaneMatching	include/PlaneMatching.h	/^		PlaneMatching();$/;"	p	class:sun::PlaneMatching	access:public	signature:()
+sun::PlaneMatching::PlaneMatching	src/PlaneMatching.cpp	/^	PlaneMatching::PlaneMatching()$/;"	f	class:sun::PlaneMatching	signature:()
+sun::PlaneMatching::debug	include/PlaneMatching.h	/^		bool debug;$/;"	m	class:sun::PlaneMatching	access:protected
+sun::PlaneMatching::loadPlanes	include/PlaneMatching.h	/^		void loadPlanes(std::vector<Plane*> planes_ref,std::vector<Plane*> planes_cur);$/;"	p	class:sun::PlaneMatching	access:public	signature:(std::vector<Plane*> planes_ref,std::vector<Plane*> planes_cur)
+sun::PlaneMatching::loadPlanes	src/PlaneMatching.cpp	/^	void PlaneMatching::loadPlanes(std::vector<Plane*> _planes_ref, std::vector<Plane*> _planes_cur)$/;"	f	class:sun::PlaneMatching	signature:(std::vector<Plane*> _planes_ref, std::vector<Plane*> _planes_cur)
+sun::PlaneMatching::planes_cur	include/PlaneMatching.h	/^		std::vector<Plane*> planes_cur;$/;"	m	class:sun::PlaneMatching	access:protected
+sun::PlaneMatching::planes_ref	include/PlaneMatching.h	/^		std::vector<Plane*> planes_ref;$/;"	m	class:sun::PlaneMatching	access:protected
+sun::PlaneMatching::setDebug	include/PlaneMatching.h	/^		void setDebug(bool d) {debug=d;}$/;"	f	class:sun::PlaneMatching	access:public	signature:(bool d)
+sun::PlaneMatching::~PlaneMatching	include/PlaneMatching.h	/^		~PlaneMatching();$/;"	p	class:sun::PlaneMatching	access:public	signature:()
+sun::PlaneMatching::~PlaneMatching	src/PlaneMatching.cpp	/^	PlaneMatching::~PlaneMatching()$/;"	f	class:sun::PlaneMatching	signature:()
+sun::PlaneMatching_Interptree	include/PlaneMatching_Interptree.h	/^	class PlaneMatching_Interptree : public PlaneMatching$/;"	c	namespace:sun	inherits:PlaneMatching
+sun::PlaneMatching_Interptree::Match	include/PlaneMatching_Interptree.h	/^		virtual void Match(std::vector<PlanePair> &matched_planes);$/;"	p	class:sun::PlaneMatching_Interptree	access:public	signature:(std::vector<PlanePair> &matched_planes)
+sun::PlaneMatching_Interptree::Match	src/PlaneMatching_Interptree.cpp	/^	void PlaneMatching_Interptree::Match(std::vector<PlanePair> &matched_planes)$/;"	f	class:sun::PlaneMatching_Interptree	signature:(std::vector<PlanePair> &matched_planes)
+sun::PlaneMatching_Interptree::PlaneMatching_Interptree	include/PlaneMatching_Interptree.h	/^		PlaneMatching_Interptree();$/;"	p	class:sun::PlaneMatching_Interptree	access:public	signature:()
+sun::PlaneMatching_Interptree::PlaneMatching_Interptree	src/PlaneMatching_Interptree.cpp	/^	PlaneMatching_Interptree::PlaneMatching_Interptree()$/;"	f	class:sun::PlaneMatching_Interptree	signature:()
+sun::PlaneMatching_Interptree::interp_tree	include/PlaneMatching_Interptree.h	/^		InterpTree *interp_tree;$/;"	m	class:sun::PlaneMatching_Interptree	access:private
+sun::PlaneMatching_Interptree::~PlaneMatching_Interptree	include/PlaneMatching_Interptree.h	/^		~PlaneMatching_Interptree();$/;"	p	class:sun::PlaneMatching_Interptree	access:public	signature:()
+sun::PlaneMatching_Interptree::~PlaneMatching_Interptree	src/PlaneMatching_Interptree.cpp	/^	PlaneMatching_Interptree::~PlaneMatching_Interptree()$/;"	f	class:sun::PlaneMatching_Interptree	signature:()
+sun::PlanePair	include/Basics.h	/^	struct PlanePair$/;"	s	namespace:sun
+sun::PlanePair::cur	include/Basics.h	/^		Plane *cur;$/;"	m	struct:sun::PlanePair	access:public
+sun::PlanePair::ref	include/Basics.h	/^		Plane *ref;$/;"	m	struct:sun::PlanePair	access:public
+sun::Point	include/Basics.h	/^	struct Point$/;"	s	namespace:sun
+sun::Point::cov	include/Basics.h	/^		Eigen::Matrix3d cov; \/\/ for icp;$/;"	m	struct:sun::Point	access:public
+sun::Point::normal	include/Basics.h	/^		Eigen::Vector3d pps, rgb, xyz, normal;$/;"	m	struct:sun::Point	access:public
+sun::Point::pps	include/Basics.h	/^		Eigen::Vector3d pps, rgb, xyz, normal;$/;"	m	struct:sun::Point	access:public
+sun::Point::rgb	include/Basics.h	/^		Eigen::Vector3d pps, rgb, xyz, normal;$/;"	m	struct:sun::Point	access:public
+sun::Point::u	include/Basics.h	/^		int u,v; \/\/ u<480, v<640$/;"	m	struct:sun::Point	access:public
+sun::Point::v	include/Basics.h	/^		int u,v; \/\/ u<480, v<640$/;"	m	struct:sun::Point	access:public
+sun::Point::weight	include/Basics.h	/^		double weight;$/;"	m	struct:sun::Point	access:public
+sun::Point::xyz	include/Basics.h	/^		Eigen::Vector3d pps, rgb, xyz, normal;$/;"	m	struct:sun::Point	access:public
+sun::Rotation2EularAngles	include/Basics.h	/^	void Rotation2EularAngles(Eigen::Matrix3d &Rotation, Eigen::Vector3d &Eulars);$/;"	p	namespace:sun	signature:(Eigen::Matrix3d &Rotation, Eigen::Vector3d &Eulars)
+sun::Rotation2EularAngles	src/Basics.cpp	/^	void Rotation2EularAngles(Eigen::Matrix3d &Rotation, Eigen::Vector3d &Eulars)$/;"	f	namespace:sun	signature:(Eigen::Matrix3d &Rotation, Eigen::Vector3d &Eulars)
+sun::Scan	include/Basics.h	/^	struct Scan$/;"	s	namespace:sun
+sun::Scan::planes	include/Basics.h	/^		std::vector<Plane*> planes;$/;"	m	struct:sun::Scan	access:public
+sun::Scan::point_cloud	include/Basics.h	/^		pcl::PointCloud<pcl::PointXYZRGBA>::Ptr point_cloud;$/;"	m	struct:sun::Scan	access:public
+sun::Scan::pose	include/Basics.h	/^		CameraPose pose;$/;"	m	struct:sun::Scan	access:public
+sun::Sorted_Cell	include/PlaneExtraction.h	/^	class Sorted_Cell$/;"	c	namespace:sun
+sun::Sorted_Cell::Sorted_Cell	include/PlaneExtraction.h	/^		Sorted_Cell(){}$/;"	f	class:sun::Sorted_Cell	access:public	signature:()
+sun::Sorted_Cell::index	include/PlaneExtraction.h	/^		int index;$/;"	m	class:sun::Sorted_Cell	access:public
+sun::Sorted_Cell::num_point	include/PlaneExtraction.h	/^		int num_point;$/;"	m	class:sun::Sorted_Cell	access:public
+sun::Sorted_Cell::operator <	include/PlaneExtraction.h	/^		bool operator < (const Sorted_Cell &m)const$/;"	f	class:sun::Sorted_Cell	access:public	signature:(const Sorted_Cell &m) const
+temp_color	include/PlaneFilter.h	/^		Eigen::Matrix3d temp_color;$/;"	m	class:sun::PlaneFilter	access:private
+temp_density	include/PlaneFilter.h	/^		Eigen::Matrix3d temp_density;$/;"	m	class:sun::PlaneFilter	access:private
+temp_edge	include/PlaneFilter.h	/^		Eigen::Matrix3d temp_edge;$/;"	m	class:sun::PlaneFilter	access:private
+theta	include/Basics.h	/^		int theta,phy,d,layer;$/;"	m	struct:sun::Pixel_pps	access:public
+thres_angle	include/PlaneExtraction_RANSAC.h	/^		double thres_angle, thres_dist, thres_color;$/;"	m	class:sun::PlaneExtraction_RANSAC	access:private
+thres_color	include/PlaneExtraction_RANSAC.h	/^		double thres_angle, thres_dist, thres_color;$/;"	m	class:sun::PlaneExtraction_RANSAC	access:private
+thres_color	include/PlaneMatching_Interptree.h	/^		double thres_color; \/\/ thres for consistent_1$/;"	m	class:sun::InterpTree	access:private
+thres_delta_angle	include/PlaneMatching_Interptree.h	/^		double thres_delta_angle; \/\/ (consistent_2) if delta_normal_angle<thres then the planes are parallel$/;"	m	class:sun::InterpTree	access:private
+thres_delta_d	include/PlaneMatching_Interptree.h	/^		double thres_delta_d; \/\/ (consistent_2) if delta_d<thres then the plane pairs are coincident$/;"	m	class:sun::InterpTree	access:private
+thres_dist	include/PlaneExtraction_RANSAC.h	/^		double thres_angle, thres_dist, thres_color;$/;"	m	class:sun::PlaneExtraction_RANSAC	access:private
+timestamp	include/DataReading.h	/^		double timestamp_rgb, timestamp_depth, timestamp; \/\/ timestamp: first timestamp of the dataset $/;"	m	class:sun::DataReading	access:private
+timestamp_depth	include/DataReading.h	/^		double timestamp_rgb, timestamp_depth, timestamp; \/\/ timestamp: first timestamp of the dataset $/;"	m	class:sun::DataReading	access:private
+timestamp_rgb	include/DataReading.h	/^		double timestamp_rgb, timestamp_depth, timestamp; \/\/ timestamp: first timestamp of the dataset $/;"	m	class:sun::DataReading	access:private
+u	include/Basics.h	/^		int u,v; \/\/ u<480, v<640$/;"	m	struct:sun::Point	access:public
+u	include/Basics.h	/^		int u,v;$/;"	m	struct:sun::Pixel	access:public
+unifyPlaneDir	include/PlaneExtraction_RANSAC.h	/^		void unifyPlaneDir(pcl::ModelCoefficients::Ptr plane);$/;"	p	class:sun::PlaneExtraction_RANSAC	access:private	signature:(pcl::ModelCoefficients::Ptr plane)
+unifyPlaneDir	src/PlaneExtraction_RANSAC.cpp	/^	void PlaneExtraction_RANSAC::unifyPlaneDir(pcl::ModelCoefficients::Ptr plane)$/;"	f	class:sun::PlaneExtraction_RANSAC	signature:(pcl::ModelCoefficients::Ptr plane)
+v	include/Basics.h	/^		int u,v; \/\/ u<480, v<640$/;"	m	struct:sun::Point	access:public
+v	include/Basics.h	/^		int u,v;$/;"	m	struct:sun::Pixel	access:public
+weight	include/Basics.h	/^		double weight;$/;"	m	struct:sun::Point	access:public
+xyz	include/Basics.h	/^		Eigen::Vector3d pps, rgb, xyz, normal;$/;"	m	struct:sun::Point	access:public
+~CameraPoseEstimation	include/CameraPoseEstimation.h	/^		~CameraPoseEstimation();$/;"	p	class:sun::CameraPoseEstimation	access:public	signature:()
+~CameraPoseEstimation	src/CameraPoseEstimation.cpp	/^	CameraPoseEstimation::~CameraPoseEstimation()$/;"	f	class:sun::CameraPoseEstimation	signature:()
+~CameraPoseEstimation_PlaneParas	include/CameraPoseEstimation_PlaneParas.h	/^		~CameraPoseEstimation_PlaneParas();$/;"	p	class:sun::CameraPoseEstimation_PlaneParas	access:public	signature:()
+~CameraPoseEstimation_PlaneParas	src/CameraPoseEstimation_PlaneParas.cpp	/^	CameraPoseEstimation_PlaneParas::~CameraPoseEstimation_PlaneParas()$/;"	f	class:sun::CameraPoseEstimation_PlaneParas	signature:()
+~CameraPoseEstimation_ShadowSM	include/CameraPoseEstimation_ShadowSM.h	/^		~CameraPoseEstimation_ShadowSM();$/;"	p	class:sun::CameraPoseEstimation_ShadowSM	access:public	signature:()
+~CameraPoseEstimation_ShadowSM	src/CameraPoseEstimation_ShadowSM.cpp	/^	CameraPoseEstimation_ShadowSM::~CameraPoseEstimation_ShadowSM()$/;"	f	class:sun::CameraPoseEstimation_ShadowSM	signature:()
+~DataReading	include/DataReading.h	/^		~DataReading();$/;"	p	class:sun::DataReading	access:public	signature:()
+~DataReading	src/DataReading.cpp	/^	DataReading::~DataReading()$/;"	f	class:sun::DataReading	signature:()
+~InterpTree	include/PlaneMatching_Interptree.h	/^		~InterpTree();$/;"	p	class:sun::InterpTree	access:public	signature:()
+~InterpTree	src/PlaneMatching_Interptree.cpp	/^	InterpTree::~InterpTree()$/;"	f	class:sun::InterpTree	signature:()
+~MapIncremental	include/MapIncremental.h	/^		~MapIncremental();$/;"	p	class:sun::MapIncremental	access:public	signature:()
+~MapIncremental	src/MapIncremental.cpp	/^	MapIncremental::~MapIncremental()$/;"	f	class:sun::MapIncremental	signature:()
+~PlaneExtraction	include/PlaneExtraction.h	/^		~PlaneExtraction();$/;"	p	class:sun::PlaneExtraction	access:public	signature:()
+~PlaneExtraction	src/PlaneExtraction.cpp	/^	PlaneExtraction::~PlaneExtraction()$/;"	f	class:sun::PlaneExtraction	signature:()
+~PlaneExtraction_RANSAC	include/PlaneExtraction_RANSAC.h	/^		~PlaneExtraction_RANSAC();$/;"	p	class:sun::PlaneExtraction_RANSAC	access:public	signature:()
+~PlaneExtraction_RANSAC	src/PlaneExtraction_RANSAC.cpp	/^	PlaneExtraction_RANSAC::~PlaneExtraction_RANSAC()$/;"	f	class:sun::PlaneExtraction_RANSAC	signature:()
+~PlaneFilter	include/PlaneFilter.h	/^		~PlaneFilter();$/;"	p	class:sun::PlaneFilter	access:public	signature:()
+~PlaneFilter	src/PlaneFilter.cpp	/^	PlaneFilter::~PlaneFilter()$/;"	f	class:sun::PlaneFilter	signature:()
+~PlaneMatching	include/PlaneMatching.h	/^		~PlaneMatching();$/;"	p	class:sun::PlaneMatching	access:public	signature:()
+~PlaneMatching	src/PlaneMatching.cpp	/^	PlaneMatching::~PlaneMatching()$/;"	f	class:sun::PlaneMatching	signature:()
+~PlaneMatching_Interptree	include/PlaneMatching_Interptree.h	/^		~PlaneMatching_Interptree();$/;"	p	class:sun::PlaneMatching_Interptree	access:public	signature:()
+~PlaneMatching_Interptree	src/PlaneMatching_Interptree.cpp	/^	PlaneMatching_Interptree::~PlaneMatching_Interptree()$/;"	f	class:sun::PlaneMatching_Interptree	signature:()
